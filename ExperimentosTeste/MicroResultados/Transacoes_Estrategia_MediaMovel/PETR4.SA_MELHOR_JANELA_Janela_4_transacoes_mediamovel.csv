@@ -1,0 +1,7 @@
+Data,Acao,Preco,Quantidade,Valor Total,Saldo Restante
+"Data                      2023-02-10
+Data    2023-02-10_PETR4.SA_Janela_4
+Name: 36, dtype: object",Compra,16.853830337524414,593.3369328950333,10000.0,0.0
+"Data                      2023-12-29
+Data    2023-12-29_PETR4.SA_Janela_4
+Name: 358, dtype: object",Venda,30.41437530517578,593.3369328950333,18045.97215949144,18045.97215949144

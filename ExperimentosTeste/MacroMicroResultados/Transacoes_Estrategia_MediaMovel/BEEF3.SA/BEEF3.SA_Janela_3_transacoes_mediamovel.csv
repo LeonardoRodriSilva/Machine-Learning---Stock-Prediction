@@ -1,0 +1,37 @@
+Data,Acao,Preco,Quantidade,Valor Total,Saldo Restante
+"Data                      2023-03-10
+Data    2023-03-10_BEEF3.SA_Janela_3
+Name: 65, dtype: object",Compra,11.014720916748049,907.8759303646858,10000.0,0.0
+"Data                      2023-03-18
+Data    2023-03-18_BEEF3.SA_Janela_3
+Name: 73, dtype: object",Venda,11.03358268737793,907.8759303646858,10017.124147558929,10017.124147558929
+"Data                      2023-05-09
+Data    2023-05-09_BEEF3.SA_Janela_3
+Name: 125, dtype: object",Compra,8.9607515335083,1117.888841142439,10017.124147558929,0.0
+"Data                      2023-06-26
+Data    2023-06-26_BEEF3.SA_Janela_3
+Name: 173, dtype: object",Venda,9.873512268066406,1117.888841142439,11037.489187354411,11037.489187354411
+"Data                      2023-08-03
+Data    2023-08-03_BEEF3.SA_Janela_3
+Name: 211, dtype: object",Compra,10.344614028930664,1066.9793146932298,11037.489187354411,0.0
+"Data                      2023-08-30
+Data    2023-08-30_BEEF3.SA_Janela_3
+Name: 238, dtype: object",Venda,8.600000381469727,1066.9793146932298,9176.022513382084,9176.022513382084
+"Data                      2023-11-07
+Data    2023-11-07_BEEF3.SA_Janela_3
+Name: 307, dtype: object",Compra,8.050000190734863,1139.87854608292,9176.022513382084,0.0
+"Data                      2023-11-13
+Data    2023-11-13_BEEF3.SA_Janela_3
+Name: 313, dtype: object",Venda,6.880000114440918,1139.87854608292,7842.364527499236,7842.364527499236
+"Data                      2023-12-02
+Data    2023-12-02_BEEF3.SA_Janela_3
+Name: 332, dtype: object",Compra,7.46999979019165,1049.8480251360265,7842.364527499236,0.0
+"Data                      2023-12-20
+Data    2023-12-20_BEEF3.SA_Janela_3
+Name: 350, dtype: object",Venda,7.28000020980835,1049.8480251360265,7642.893843257155,7642.893843257155
+"Data                      2023-12-25
+Data    2023-12-25_BEEF3.SA_Janela_3
+Name: 355, dtype: object",Compra,7.380000114440918,1035.622455926771,7642.893843257155,0.0
+"Data                      2023-12-31
+Data    2023-12-31_BEEF3.SA_Janela_3
+Name: 361, dtype: object",Venda Final,7.46999979019165,1035.622455926771,7736.09952849074,7736.09952849074

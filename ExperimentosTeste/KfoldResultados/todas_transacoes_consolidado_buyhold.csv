@@ -1,0 +1,55 @@
+Ticker,Janela,Estratégia,Data,Acao,Preco,Quantidade,Valor Total,Saldo Restante
+PETR4.SA,N/A,Buy and Hold,"Data                     2023-01-02
+Data    2023-01-02_PETR4.SA_BuyHold
+Name: 0, dtype: object",Compra Inicial,14.456953048706056,691.7086862155253,10000.0,0.0
+PETR4.SA,N/A,Buy and Hold,"Data                     2023-12-31
+Data    2023-12-31_PETR4.SA_BuyHold
+Name: 363, dtype: object",Venda Final,30.41437530517578,691.7086862155253,21037.887584409054,21037.887584409054
+BEEF3.SA,N/A,Buy and Hold,"Data                     2023-01-02
+Data    2023-01-02_BEEF3.SA_BuyHold
+Name: 0, dtype: object",Compra Inicial,11.97662353515625,834.9598674990444,10000.0,0.0
+BEEF3.SA,N/A,Buy and Hold,"Data                     2023-12-31
+Data    2023-12-31_BEEF3.SA_BuyHold
+Name: 363, dtype: object",Venda Final,7.46999979019165,834.9598674990444,6237.15003503631,6237.15003503631
+BRFS3.SA,N/A,Buy and Hold,"Data                     2023-01-02
+Data    2023-01-02_BRFS3.SA_BuyHold
+Name: 0, dtype: object",Compra Inicial,7.745638847351074,1291.0490918925161,10000.0,0.0
+BRFS3.SA,N/A,Buy and Hold,"Data                     2023-12-31
+Data    2023-12-31_BRFS3.SA_BuyHold
+Name: 363, dtype: object",Venda Final,13.43809986114502,1291.0490918925161,17349.246622492225,17349.246622492225
+VALE3.SA,N/A,Buy and Hold,"Data                     2023-01-02
+Data    2023-01-02_VALE3.SA_BuyHold
+Name: 0, dtype: object",Compra Inicial,74.0680160522461,135.01104164780384,10000.0,0.0
+VALE3.SA,N/A,Buy and Hold,"Data                     2023-12-31
+Data    2023-12-31_VALE3.SA_BuyHold
+Name: 363, dtype: object",Venda Final,68.00540924072266,135.01104164780384,9181.48113927515,9181.48113927515
+JBSS3.SA,N/A,Buy and Hold,"Data                     2023-01-02
+Data    2023-01-02_JBSS3.SA_BuyHold
+Name: 0, dtype: object",Compra Inicial,18.70368766784668,534.6539237388411,10000.0,0.0
+JBSS3.SA,N/A,Buy and Hold,"Data                     2023-12-31
+Data    2023-12-31_JBSS3.SA_BuyHold
+Name: 363, dtype: object",Venda Final,22.94232749938965,534.6539237388411,12266.205417250188,12266.205417250188
+SOJA3.SA,N/A,Buy and Hold,"Data                     2023-01-02
+Data    2023-01-02_SOJA3.SA_BuyHold
+Name: 0, dtype: object",Compra Inicial,9.312899589538574,1073.7794286146136,10000.0,0.0
+SOJA3.SA,N/A,Buy and Hold,"Data                     2023-12-31
+Data    2023-12-31_SOJA3.SA_BuyHold
+Name: 363, dtype: object",Venda Final,15.800615310668944,1073.7794286146136,16966.375680049412,16966.375680049412
+SUZB3.SA,N/A,Buy and Hold,"Data                     2023-01-02
+Data    2023-01-02_SUZB3.SA_BuyHold
+Name: 0, dtype: object",Compra Inicial,46.34902572631836,215.7542654520503,10000.0,0.0
+SUZB3.SA,N/A,Buy and Hold,"Data                     2023-12-31
+Data    2023-12-31_SUZB3.SA_BuyHold
+Name: 363, dtype: object",Venda Final,53.87290191650391,215.7542654520503,11623.308380765655,11623.308380765655
+GGBR3.SA,N/A,Buy and Hold,"Data                     2023-01-02
+Data    2023-01-02_GGBR3.SA_BuyHold
+Name: 0, dtype: object",Compra Inicial,20.91140937805176,478.20784430225063,10000.0,0.0
+GGBR3.SA,N/A,Buy and Hold,"Data                     2023-12-31
+Data    2023-12-31_GGBR3.SA_BuyHold
+Name: 363, dtype: object",Venda Final,18.896005630493164,478.20784430225063,9036.218118481327,9036.218118481327
+CSNA3.SA,N/A,Buy and Hold,"Data                     2023-01-02
+Data    2023-01-02_CSNA3.SA_BuyHold
+Name: 0, dtype: object",Compra Inicial,12.160834312438965,822.3120012227524,10000.0,0.0
+CSNA3.SA,N/A,Buy and Hold,"Data                     2023-12-31
+Data    2023-12-31_CSNA3.SA_BuyHold
+Name: 363, dtype: object",Venda Final,17.75103759765625,822.3120012227524,14596.89125070903,14596.89125070903

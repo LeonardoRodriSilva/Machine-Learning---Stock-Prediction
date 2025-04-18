@@ -1,0 +1,7 @@
+Data,Acao,Preco,Quantidade,Valor Total,Saldo Restante
+"Data                     2023-01-02
+Data    2023-01-02_BEEF3.SA_BuyHold
+Name: 0, dtype: object",Compra Inicial,11.97662353515625,834.9598674990444,10000.0,0.0
+"Data                     2023-12-31
+Data    2023-12-31_BEEF3.SA_BuyHold
+Name: 363, dtype: object",Venda Final,7.46999979019165,834.9598674990444,6237.15003503631,6237.15003503631

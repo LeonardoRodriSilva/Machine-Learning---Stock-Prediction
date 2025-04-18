@@ -1,0 +1,2 @@
+num_lstm_layers,units_lstm_0,dropout_lstm_0,num_dense_layers,learning_rate,units_lstm_1,dropout_lstm_1
+1,150,0.2,0,0.001,50,0.2

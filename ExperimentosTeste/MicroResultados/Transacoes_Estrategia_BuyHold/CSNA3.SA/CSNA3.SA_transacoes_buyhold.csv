@@ -1,0 +1,7 @@
+Data,Acao,Preco,Quantidade,Valor Total,Saldo Restante
+"Data                     2023-01-02
+Data    2023-01-02_CSNA3.SA_BuyHold
+Name: 0, dtype: object",Compra Inicial,12.160834312438965,822.3120012227524,10000.0,0.0
+"Data                     2023-12-31
+Data    2023-12-31_CSNA3.SA_BuyHold
+Name: 363, dtype: object",Venda Final,17.75103759765625,822.3120012227524,14596.89125070903,14596.89125070903

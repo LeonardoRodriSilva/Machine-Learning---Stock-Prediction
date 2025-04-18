@@ -1,0 +1,7 @@
+Data,Acao,Preco,Quantidade,Valor Total,Saldo Restante
+"Data                     2023-01-02
+Data    2023-01-02_BRFS3.SA_BuyHold
+Name: 0, dtype: object",Compra Inicial,7.745638847351074,1291.0490918925161,10000.0,0.0
+"Data                     2023-12-31
+Data    2023-12-31_BRFS3.SA_BuyHold
+Name: 363, dtype: object",Venda Final,13.43809986114502,1291.0490918925161,17349.246622492225,17349.246622492225

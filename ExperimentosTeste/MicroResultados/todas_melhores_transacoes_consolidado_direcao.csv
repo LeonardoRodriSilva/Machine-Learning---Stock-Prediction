@@ -1,0 +1,2587 @@
+Ticker,Janela,Estratégia,Previsões Razoáveis,Data,Acao,Preco,Quantidade,Valor Total,Saldo Restante
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-03
+Data    2023-01-03_CSNA3.SA_Janela_1
+Name: 1, dtype: object",Compra,12.020390510559082,831.9197276673908,10000.0,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-04
+Data    2023-01-04_CSNA3.SA_Janela_1
+Name: 2, dtype: object",Venda,12.111265182495115,831.9197276673908,10075.600432328889,10075.600432328889
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-05
+Data    2023-01-05_CSNA3.SA_Janela_1
+Name: 3, dtype: object",Compra,12.912625312805176,780.29062163967,10075.600432328889,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-13
+Data    2023-01-13_CSNA3.SA_Janela_1
+Name: 11, dtype: object",Venda,13.95356559753418,780.29062163967,10887.83637418986,10887.83637418986
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-18
+Data    2023-01-18_CSNA3.SA_Janela_1
+Name: 16, dtype: object",Compra,14.300545692443848,761.3581053723564,10887.83637418986,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-25
+Data    2023-01-25_CSNA3.SA_Janela_1
+Name: 23, dtype: object",Venda,14.548388481140137,761.3581053723564,11076.533490221867,11076.533490221867
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-27
+Data    2023-01-27_CSNA3.SA_Janela_1
+Name: 25, dtype: object",Compra,15.03581428527832,736.6766628041546,11076.533490221867,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-28
+Data    2023-01-28_CSNA3.SA_Janela_1
+Name: 26, dtype: object",Venda,15.03581428527832,736.6766628041546,11076.533490221867,11076.533490221867
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-31
+Data    2023-01-31_CSNA3.SA_Janela_1
+Name: 29, dtype: object",Compra,15.283656120300291,724.7306143920383,11076.533490221867,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-03
+Data    2023-02-03_CSNA3.SA_Janela_1
+Name: 32, dtype: object",Venda,14.564910888671877,724.7306143920383,10555.636816912458,10555.636816912458
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-04
+Data    2023-02-04_CSNA3.SA_Janela_1
+Name: 33, dtype: object",Compra,14.564910888671877,724.7306143920383,10555.636816912458,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-07
+Data    2023-02-07_CSNA3.SA_Janela_1
+Name: 36, dtype: object",Venda,14.284024238586426,724.7306143920383,10352.069662421507,10352.069662421507
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-08
+Data    2023-02-08_CSNA3.SA_Janela_1
+Name: 37, dtype: object",Compra,14.300545692443848,723.8933314196083,10352.069662421507,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-10
+Data    2023-02-10_CSNA3.SA_Janela_1
+Name: 39, dtype: object",Venda,14.094009399414062,723.8933314196083,10202.559417201119,10202.559417201119
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-15
+Data    2023-02-15_CSNA3.SA_Janela_1
+Name: 44, dtype: object",Compra,14.597957611083984,698.90320886084,10202.559417201119,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-18
+Data    2023-02-18_CSNA3.SA_Janela_1
+Name: 47, dtype: object",Venda,14.374897956848145,698.90320886084,10046.6623090883,10046.6623090883
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-24
+Data    2023-02-24_CSNA3.SA_Janela_1
+Name: 53, dtype: object",Compra,13.647892951965332,736.1328480849166,10046.6623090883,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-25
+Data    2023-02-25_CSNA3.SA_Janela_1
+Name: 54, dtype: object",Venda,13.647892951965332,736.1328480849166,10046.6623090883,10046.6623090883
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-28
+Data    2023-02-28_CSNA3.SA_Janela_1
+Name: 57, dtype: object",Compra,13.77181339263916,729.5090357859553,10046.6623090883,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-01
+Data    2023-03-01_CSNA3.SA_Janela_1
+Name: 58, dtype: object",Venda,14.821017265319824,729.5090357859553,10812.066014590462,10812.066014590462
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-02
+Data    2023-03-02_CSNA3.SA_Janela_1
+Name: 59, dtype: object",Compra,14.680572509765623,736.4880359671394,10812.066014590462,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-03
+Data    2023-03-03_CSNA3.SA_Janela_1
+Name: 60, dtype: object",Venda,15.068859100341797,736.4880359671394,11098.034443076285,11098.034443076285
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-04
+Data    2023-03-04_CSNA3.SA_Janela_1
+Name: 61, dtype: object",Compra,15.068859100341797,736.4880359671394,11098.034443076285,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-07
+Data    2023-03-07_CSNA3.SA_Janela_1
+Name: 64, dtype: object",Venda,14.292283058166504,736.4880359671394,10526.095478995469,10526.095478995469
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-09
+Data    2023-03-09_CSNA3.SA_Janela_1
+Name: 66, dtype: object",Compra,13.664416313171388,770.3289505933134,10526.095478995469,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-10
+Data    2023-03-10_CSNA3.SA_Janela_1
+Name: 67, dtype: object",Venda,13.152206420898438,770.3289505933134,10131.52537019733,10131.52537019733
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-14
+Data    2023-03-14_CSNA3.SA_Janela_1
+Name: 71, dtype: object",Compra,12.986977577209473,780.1295805713021,10131.52537019733,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-15
+Data    2023-03-15_CSNA3.SA_Janela_1
+Name: 72, dtype: object",Venda,12.202141761779783,780.1295805713021,9519.25173468883,9519.25173468883
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-17
+Data    2023-03-17_CSNA3.SA_Janela_1
+Name: 74, dtype: object",Compra,12.061697006225586,789.2133030514293,9519.25173468883,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-18
+Data    2023-03-18_CSNA3.SA_Janela_1
+Name: 75, dtype: object",Venda,12.061697006225586,789.2133030514293,9519.25173468883,9519.25173468883
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-23
+Data    2023-03-23_CSNA3.SA_Janela_1
+Name: 80, dtype: object",Compra,11.392520904541016,835.570267059549,9519.25173468883,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-24
+Data    2023-03-24_CSNA3.SA_Janela_1
+Name: 81, dtype: object",Venda,11.37599754333496,835.570267059549,9505.445305353165,9505.445305353165
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-28
+Data    2023-03-28_CSNA3.SA_Janela_1
+Name: 85, dtype: object",Compra,11.912991523742676,797.9058229336222,9505.445305353165,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-01
+Data    2023-04-01_CSNA3.SA_Janela_1
+Name: 89, dtype: object",Venda,12.755657196044922,797.9058229336222,10177.813152069402,10177.813152069402
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-11
+Data    2023-04-11_CSNA3.SA_Janela_1
+Name: 99, dtype: object",Compra,13.358741760253906,761.884115639642,10177.813152069402,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-13
+Data    2023-04-13_CSNA3.SA_Janela_1
+Name: 101, dtype: object",Venda,12.920886993408203,761.884115639642,9844.218560252562,9844.218560252562
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-18
+Data    2023-04-18_CSNA3.SA_Janela_1
+Name: 106, dtype: object",Compra,12.359108924865724,796.5152358554453,9844.218560252562,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-20
+Data    2023-04-20_CSNA3.SA_Janela_1
+Name: 108, dtype: object",Venda,12.003866195678713,796.5152358554453,9561.262314028238,9561.262314028238
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-28
+Data    2023-04-28_CSNA3.SA_Janela_1
+Name: 116, dtype: object",Compra,11.739500045776367,814.4522574850353,9561.262314028238,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-03
+Data    2023-05-03_CSNA3.SA_Janela_1
+Name: 121, dtype: object",Venda,11.081212043762209,814.4522574850353,9025.118164712492,9025.118164712492
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-04
+Data    2023-05-04_CSNA3.SA_Janela_1
+Name: 122, dtype: object",Compra,10.391867637634276,868.478937513399,9025.118164712492,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-05
+Data    2023-05-05_CSNA3.SA_Janela_1
+Name: 123, dtype: object",Venda,11.124296188354492,868.478937513399,9661.216934246464,9661.216934246464
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-06
+Data    2023-05-06_CSNA3.SA_Janela_1
+Name: 124, dtype: object",Compra,11.124296188354492,868.478937513399,9661.216934246464,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-11
+Data    2023-05-11_CSNA3.SA_Janela_1
+Name: 129, dtype: object",Venda,11.038127899169922,868.478937513399,9586.3815900081,9586.3815900081
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-16
+Data    2023-05-16_CSNA3.SA_Janela_1
+Name: 134, dtype: object",Compra,10.93472671508789,876.6914656203228,9586.3815900081,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-17
+Data    2023-05-17_CSNA3.SA_Janela_1
+Name: 135, dtype: object",Venda,11.408650398254396,876.6914656203228,10001.866438395526,10001.866438395526
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-18
+Data    2023-05-18_CSNA3.SA_Janela_1
+Name: 136, dtype: object",Compra,11.477584838867188,871.426051631145,10001.866438395526,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-24
+Data    2023-05-24_CSNA3.SA_Janela_1
+Name: 142, dtype: object",Venda,10.865792274475098,871.426051631145,9468.734459590032,9468.734459590032
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-27
+Data    2023-05-27_CSNA3.SA_Janela_1
+Name: 145, dtype: object",Compra,10.762389183044434,879.7985557433209,9468.734459590032,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-30
+Data    2023-05-30_CSNA3.SA_Janela_1
+Name: 148, dtype: object",Venda,10.340167045593262,879.7985557433209,9097.264032857633,9097.264032857633
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-01
+Data    2023-06-01_CSNA3.SA_Janela_1
+Name: 150, dtype: object",Compra,10.52973747253418,863.9592446238078,9097.264032857633,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-08
+Data    2023-06-08_CSNA3.SA_Janela_1
+Name: 157, dtype: object",Venda,11.124296188354492,863.9592446238078,9610.938531862252,9610.938531862252
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-10
+Data    2023-06-10_CSNA3.SA_Janela_1
+Name: 159, dtype: object",Compra,11.21908187866211,856.6599866020738,9610.938531862252,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-13
+Data    2023-06-13_CSNA3.SA_Janela_1
+Name: 162, dtype: object",Venda,10.857175827026367,856.6599866020738,9300.908098516767,9300.908098516767
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-15
+Data    2023-06-15_CSNA3.SA_Janela_1
+Name: 164, dtype: object",Compra,11.391417503356934,816.4838217698443,9300.908098516767,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-21
+Data    2023-06-21_CSNA3.SA_Janela_1
+Name: 170, dtype: object",Venda,11.253548622131348,816.4838217698443,9188.34038747057,9188.34038747057
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-27
+Data    2023-06-27_CSNA3.SA_Janela_1
+Name: 176, dtype: object",Compra,11.279398918151855,814.6125918717033,9188.34038747057,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-29
+Data    2023-06-29_CSNA3.SA_Janela_1
+Name: 178, dtype: object",Venda,11.14153003692627,814.6125918717033,9076.030660796943,9076.030660796943
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-30
+Data    2023-06-30_CSNA3.SA_Janela_1
+Name: 179, dtype: object",Compra,10.45218563079834,868.3380664474206,9076.030660796943,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-01
+Data    2023-07-01_CSNA3.SA_Janela_1
+Name: 180, dtype: object",Venda,10.45218563079834,868.3380664474206,9076.030660796943,9076.030660796943
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-04
+Data    2023-07-04_CSNA3.SA_Janela_1
+Name: 183, dtype: object",Compra,10.615903854370115,854.9465768815086,9076.030660796943,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-07
+Data    2023-07-07_CSNA3.SA_Janela_1
+Name: 186, dtype: object",Venda,10.960577964782717,854.9465768815086,9370.708611633876,9370.708611633876
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-08
+Data    2023-07-08_CSNA3.SA_Janela_1
+Name: 187, dtype: object",Compra,10.960577964782717,854.9465768815086,9370.708611633876,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-11
+Data    2023-07-11_CSNA3.SA_Janela_1
+Name: 190, dtype: object",Venda,10.676222801208496,854.9465768815086,9127.600137917514,9127.600137917514
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-12
+Data    2023-07-12_CSNA3.SA_Janela_1
+Name: 191, dtype: object",Compra,10.822709083557127,843.3748026901156,9127.600137917514,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-15
+Data    2023-07-15_CSNA3.SA_Janela_1
+Name: 194, dtype: object",Venda,11.107063293457031,843.3748026901156,9367.41731358595,9367.41731358595
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-22
+Data    2023-07-22_CSNA3.SA_Janela_1
+Name: 201, dtype: object",Compra,10.960577964782717,854.6462917999644,9367.41731358595,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-28
+Data    2023-07-28_CSNA3.SA_Janela_1
+Name: 207, dtype: object",Venda,11.598219871520996,854.6462917999644,9912.37560467608,9912.37560467608
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-01
+Data    2023-08-01_CSNA3.SA_Janela_1
+Name: 211, dtype: object",Compra,11.805024147033691,839.674318427109,9912.37560467608,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-02
+Data    2023-08-02_CSNA3.SA_Janela_1
+Name: 212, dtype: object",Venda,11.460351943969728,839.674318427109,9622.963207487575,9622.963207487575
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-19
+Data    2023-08-19_CSNA3.SA_Janela_1
+Name: 229, dtype: object",Compra,10.52973747253418,913.8844375358988,9622.963207487575,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-22
+Data    2023-08-22_CSNA3.SA_Janela_1
+Name: 232, dtype: object",Venda,10.54697036743164,913.8844375358988,9638.712081948057,9638.712081948057
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-23
+Data    2023-08-23_CSNA3.SA_Janela_1
+Name: 233, dtype: object",Compra,10.564204216003418,912.393577866153,9638.712081948057,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-25
+Data    2023-08-25_CSNA3.SA_Janela_1
+Name: 235, dtype: object",Venda,10.253998756408691,912.393577866153,9355.68261279481,9355.68261279481
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-29
+Data    2023-08-29_CSNA3.SA_Janela_1
+Name: 239, dtype: object",Compra,10.486653327941896,892.151415730165,9355.68261279481,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-01
+Data    2023-09-01_CSNA3.SA_Janela_1
+Name: 242, dtype: object",Venda,10.607288360595703,892.151415730165,9463.307327963557,9463.307327963557
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-02
+Data    2023-09-02_CSNA3.SA_Janela_1
+Name: 243, dtype: object",Compra,10.607288360595703,892.151415730165,9463.307327963557,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-06
+Data    2023-09-06_CSNA3.SA_Janela_1
+Name: 247, dtype: object",Venda,10.486653327941896,892.151415730165,9355.68261279481,9355.68261279481
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-12
+Data    2023-09-12_CSNA3.SA_Janela_1
+Name: 253, dtype: object",Compra,10.4694185256958,893.6200792653887,9355.68261279481,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-14
+Data    2023-09-14_CSNA3.SA_Janela_1
+Name: 255, dtype: object",Venda,10.762389183044434,893.6200792653887,9617.487074837129,9617.487074837129
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-15
+Data    2023-09-15_CSNA3.SA_Janela_1
+Name: 256, dtype: object",Compra,10.702073097229004,898.6564553859478,9617.487074837129,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-16
+Data    2023-09-16_CSNA3.SA_Janela_1
+Name: 257, dtype: object",Venda,10.702073097229004,898.6564553859478,9617.487074837129,9617.487074837129
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-20
+Data    2023-09-20_CSNA3.SA_Janela_1
+Name: 261, dtype: object",Compra,10.693455696105955,899.3806444009823,9617.487074837129,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-22
+Data    2023-09-22_CSNA3.SA_Janela_1
+Name: 263, dtype: object",Venda,10.426334381103516,899.3806444009823,9377.243334416997,9377.243334416997
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-29
+Data    2023-09-29_CSNA3.SA_Janela_1
+Name: 270, dtype: object",Compra,10.460803031921388,896.4171589697384,9377.243334416997,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-03
+Data    2023-10-03_CSNA3.SA_Janela_1
+Name: 274, dtype: object",Venda,10.16783046722412,896.4171589697384,9114.617700314991,9114.617700314991
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-07
+Data    2023-10-07_CSNA3.SA_Janela_1
+Name: 278, dtype: object",Compra,9.917943954467772,919.0027431249092,9114.617700314991,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-10
+Data    2023-10-10_CSNA3.SA_Janela_1
+Name: 281, dtype: object",Venda,10.012727737426758,919.0027431249092,9201.724256858057,9201.724256858057
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-11
+Data    2023-10-11_CSNA3.SA_Janela_1
+Name: 282, dtype: object",Compra,10.14198112487793,907.2906115242657,9201.724256858057,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-14
+Data    2023-10-14_CSNA3.SA_Janela_1
+Name: 285, dtype: object",Venda,10.029962539672852,907.2906115242657,9100.09084618526,9100.09084618526
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-17
+Data    2023-10-17_CSNA3.SA_Janela_1
+Name: 288, dtype: object",Compra,10.038578033447266,906.5119398250343,9100.09084618526,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-18
+Data    2023-10-18_CSNA3.SA_Janela_1
+Name: 289, dtype: object",Venda,9.73699188232422,906.5119398250343,8826.699399306342,8826.699399306342
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-24
+Data    2023-10-24_CSNA3.SA_Janela_1
+Name: 295, dtype: object",Compra,9.59050464630127,920.3581797659103,8826.699399306342,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-26
+Data    2023-10-26_CSNA3.SA_Janela_1
+Name: 297, dtype: object",Venda,9.728373527526855,920.3581797659103,8953.588151877484,8953.588151877484
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-27
+Data    2023-10-27_CSNA3.SA_Janela_1
+Name: 298, dtype: object",Compra,9.797307968139648,913.8824849636351,8953.588151877484,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-10
+Data    2023-11-10_CSNA3.SA_Janela_1
+Name: 312, dtype: object",Venda,10.917492866516112,913.8824849636351,9977.305510424503,9977.305510424503
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-11
+Data    2023-11-11_CSNA3.SA_Janela_1
+Name: 313, dtype: object",Compra,10.917492866516112,913.8824849636351,9977.305510424503,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-14
+Data    2023-11-14_CSNA3.SA_Janela_1
+Name: 316, dtype: object",Venda,11.83949089050293,913.8824849636351,10819.903355717139,10819.903355717139
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-15
+Data    2023-11-15_CSNA3.SA_Janela_1
+Name: 317, dtype: object",Compra,11.83949089050293,913.8824849636351,10819.903355717139,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-24
+Data    2023-11-24_CSNA3.SA_Janela_1
+Name: 326, dtype: object",Venda,14.103316307067873,913.8824849636351,12888.773752931345,12888.773752931345
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-28
+Data    2023-11-28_CSNA3.SA_Janela_1
+Name: 330, dtype: object",Compra,14.599912643432615,882.7980048722428,12888.773752931345,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-05
+Data    2023-12-05_CSNA3.SA_Janela_1
+Name: 337, dtype: object",Venda,15.51184368133545,882.7980048722428,13693.824653773041,13693.824653773041
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-06
+Data    2023-12-06_CSNA3.SA_Janela_1
+Name: 338, dtype: object",Compra,15.466696739196776,885.3748725200774,13693.824653773041,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-07
+Data    2023-12-07_CSNA3.SA_Janela_1
+Name: 339, dtype: object",Venda,15.322233200073242,885.3748725200774,13565.920266237743,13565.920266237743
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-09
+Data    2023-12-09_CSNA3.SA_Janela_1
+Name: 341, dtype: object",Compra,15.529901504516602,873.5354993907933,13565.920266237743,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-12
+Data    2023-12-12_CSNA3.SA_Janela_1
+Name: 344, dtype: object",Venda,15.48475456237793,873.5354993907933,13526.48280959067,13526.48280959067
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-13
+Data    2023-12-13_CSNA3.SA_Janela_1
+Name: 345, dtype: object",Compra,15.818829536437988,855.0874625984814,13526.48280959067,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-21
+Data    2023-12-21_CSNA3.SA_Janela_1
+Name: 353, dtype: object",Venda,17.200267791748047,855.0874625984814,14707.73334206022,14707.73334206022
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-22
+Data    2023-12-22_CSNA3.SA_Janela_1
+Name: 354, dtype: object",Compra,17.25444221496582,852.4027122304374,14707.73334206022,0.0
+CSNA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-31
+Data    2023-12-31_CSNA3.SA_Janela_1
+Name: 363, dtype: object",Venda Final,17.75103759765625,852.4027122304374,15131.032593146654,15131.032593146654
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-05
+Data    2023-01-05_SOJA3.SA_Janela_1
+Name: 3, dtype: object",Compra,9.166814804077148,1090.8914616178647,10000.0,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-10
+Data    2023-01-10_SOJA3.SA_Janela_1
+Name: 8, dtype: object",Venda,9.751153945922852,1090.8914616178647,10637.450580528588,10637.450580528588
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-11
+Data    2023-01-11_SOJA3.SA_Janela_1
+Name: 9, dtype: object",Compra,9.787675857543944,1086.8208893871033,10637.450580528588,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-14
+Data    2023-01-14_SOJA3.SA_Janela_1
+Name: 12, dtype: object",Venda,9.796804428100586,1086.8208893871033,10647.37170169979,10647.37170169979
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-19
+Data    2023-01-19_SOJA3.SA_Janela_1
+Name: 17, dtype: object",Compra,9.970281600952148,1067.9108301898896,10647.37170169979,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-25
+Data    2023-01-25_SOJA3.SA_Janela_1
+Name: 23, dtype: object",Venda,10.68244457244873,1067.9108301898896,11407.898251821203,11407.898251821203
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-26
+Data    2023-01-26_SOJA3.SA_Janela_1
+Name: 24, dtype: object",Compra,10.591140747070312,1077.1170475641936,11407.898251821203,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-27
+Data    2023-01-27_SOJA3.SA_Janela_1
+Name: 25, dtype: object",Venda,10.591140747070312,1077.1170475641936,11407.898251821203,11407.898251821203
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-02
+Data    2023-02-02_SOJA3.SA_Janela_1
+Name: 31, dtype: object",Compra,10.554619789123535,1080.8440739454172,11407.898251821203,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-03
+Data    2023-02-03_SOJA3.SA_Janela_1
+Name: 32, dtype: object",Venda,10.563749313354492,1080.8440739454172,11417.765843984173,11417.765843984173
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-04
+Data    2023-02-04_SOJA3.SA_Janela_1
+Name: 33, dtype: object",Compra,10.563749313354492,1080.8440739454172,11417.765843984173,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-07
+Data    2023-02-07_SOJA3.SA_Janela_1
+Name: 36, dtype: object",Venda,10.627662658691406,1080.8440739454172,11486.846204537604,11486.846204537604
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-08
+Data    2023-02-08_SOJA3.SA_Janela_1
+Name: 37, dtype: object",Compra,11.020264625549316,1042.3385095405574,11486.846204537604,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-10
+Data    2023-02-10_SOJA3.SA_Janela_1
+Name: 39, dtype: object",Venda,10.235058784484863,1042.3385095405574,10668.395918479942,10668.395918479942
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-14
+Data    2023-02-14_SOJA3.SA_Janela_1
+Name: 43, dtype: object",Compra,10.819397926330566,986.0434001153485,10668.395918479942,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-23
+Data    2023-02-23_SOJA3.SA_Janela_1
+Name: 52, dtype: object",Venda,11.02939510345459,986.0434001153485,10875.462249025939,10875.462249025939
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-01
+Data    2023-03-01_SOJA3.SA_Janela_1
+Name: 58, dtype: object",Compra,11.184610366821287,972.3595093922606,10875.462249025939,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-04
+Data    2023-03-04_SOJA3.SA_Janela_1
+Name: 61, dtype: object",Venda,11.27591323852539,972.3595093922606,10964.241464562245,10964.241464562245
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-07
+Data    2023-03-07_SOJA3.SA_Janela_1
+Name: 64, dtype: object",Compra,11.641124725341797,941.8541355109759,10964.241464562245,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-10
+Data    2023-03-10_SOJA3.SA_Janela_1
+Name: 67, dtype: object",Venda,11.814599990844728,941.8541355109759,11127.629860785046,11127.629860785046
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-11
+Data    2023-03-11_SOJA3.SA_Janela_1
+Name: 68, dtype: object",Compra,11.814599990844728,941.8541355109759,11127.629860785046,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-14
+Data    2023-03-14_SOJA3.SA_Janela_1
+Name: 71, dtype: object",Venda,10.801137924194336,941.8541355109759,10173.096422126873,10173.096422126873
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-17
+Data    2023-03-17_SOJA3.SA_Janela_1
+Name: 74, dtype: object",Compra,10.855920791625977,937.1012019518585,10173.096422126873,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-18
+Data    2023-03-18_SOJA3.SA_Janela_1
+Name: 75, dtype: object",Venda,10.855920791625977,937.1012019518585,10173.096422126873,10173.096422126873
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-23
+Data    2023-03-23_SOJA3.SA_Janela_1
+Name: 80, dtype: object",Compra,10.189408302307127,998.3991337184358,10173.096422126873,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-24
+Data    2023-03-24_SOJA3.SA_Janela_1
+Name: 81, dtype: object",Venda,10.527228355407717,998.3991337184358,10510.375670495217,10510.375670495217
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-25
+Data    2023-03-25_SOJA3.SA_Janela_1
+Name: 82, dtype: object",Compra,10.527228355407717,998.3991337184358,10510.375670495217,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-01
+Data    2023-04-01_SOJA3.SA_Janela_1
+Name: 89, dtype: object",Venda,10.901570320129396,998.3991337184358,10884.1183637878,10884.1183637878
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-06
+Data    2023-04-06_SOJA3.SA_Janela_1
+Name: 94, dtype: object",Compra,10.417665481567385,1044.775183369608,10884.1183637878,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-07
+Data    2023-04-07_SOJA3.SA_Janela_1
+Name: 95, dtype: object",Venda,10.417665481567385,1044.775183369608,10884.118363787798,10884.118363787798
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-12
+Data    2023-04-12_SOJA3.SA_Janela_1
+Name: 100, dtype: object",Compra,10.454185485839844,1041.125430434566,10884.118363787798,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-13
+Data    2023-04-13_SOJA3.SA_Janela_1
+Name: 101, dtype: object",Venda,10.572880744934082,1041.125430434566,11007.69501650283,11007.69501650283
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-14
+Data    2023-04-14_SOJA3.SA_Janela_1
+Name: 102, dtype: object",Compra,10.463316917419434,1052.027297211758,11007.69501650283,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-15
+Data    2023-04-15_SOJA3.SA_Janela_1
+Name: 103, dtype: object",Venda,10.463316917419434,1052.027297211758,11007.69501650283,11007.69501650283
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-18
+Data    2023-04-18_SOJA3.SA_Janela_1
+Name: 106, dtype: object",Compra,10.591140747070312,1039.3304441306518,11007.69501650283,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-20
+Data    2023-04-20_SOJA3.SA_Janela_1
+Name: 108, dtype: object",Venda,10.481576919555664,1039.3304441306518,10893.821994991378,10893.821994991378
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-27
+Data    2023-04-27_SOJA3.SA_Janela_1
+Name: 115, dtype: object",Compra,10.171146392822266,1071.051538760577,10893.821994991378,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-29
+Data    2023-04-29_SOJA3.SA_Janela_1
+Name: 117, dtype: object",Venda,10.019003868103027,1071.051538760577,10730.86950977992,10730.86950977992
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-04
+Data    2023-05-04_SOJA3.SA_Janela_1
+Name: 122, dtype: object",Compra,10.055569648742676,1067.1567981354176,10730.86950977992,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-09
+Data    2023-05-09_SOJA3.SA_Janela_1
+Name: 127, dtype: object",Venda,10.375518798828123,1067.1567981354176,11072.305420351255,11072.305420351255
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-10
+Data    2023-05-10_SOJA3.SA_Janela_1
+Name: 128, dtype: object",Compra,10.46693229675293,1057.836728702843,11072.305420351255,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-17
+Data    2023-05-17_SOJA3.SA_Janela_1
+Name: 135, dtype: object",Venda,10.68632698059082,1057.836728702843,11304.389174997123,11304.389174997123
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-19
+Data    2023-05-19_SOJA3.SA_Janela_1
+Name: 137, dtype: object",Compra,10.69546890258789,1056.9325457308278,11304.389174997123,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-20
+Data    2023-05-20_SOJA3.SA_Janela_1
+Name: 138, dtype: object",Venda,10.69546890258789,1056.9325457308278,11304.389174997123,11304.389174997123
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-23
+Data    2023-05-23_SOJA3.SA_Janela_1
+Name: 141, dtype: object",Compra,10.48521614074707,1078.1264804896703,11304.389174997123,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-24
+Data    2023-05-24_SOJA3.SA_Janela_1
+Name: 142, dtype: object",Venda,10.210972785949709,1078.1264804896703,11008.720152091762,11008.720152091762
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-27
+Data    2023-05-27_SOJA3.SA_Janela_1
+Name: 145, dtype: object",Compra,10.238397598266602,1075.2385855727637,11008.720152091762,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-31
+Data    2023-05-31_SOJA3.SA_Janela_1
+Name: 149, dtype: object",Venda,9.918447494506836,1075.2385855727637,10664.697455071251,10664.697455071251
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-07
+Data    2023-06-07_SOJA3.SA_Janela_1
+Name: 156, dtype: object",Compra,9.955013275146484,1071.289124414987,10664.697455071251,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-14
+Data    2023-06-14_SOJA3.SA_Janela_1
+Name: 163, dtype: object",Venda,9.93673038482666,1071.289124414987,10645.11119350875,10645.11119350875
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-16
+Data    2023-06-16_SOJA3.SA_Janela_1
+Name: 165, dtype: object",Compra,10.00071907043457,1064.434579007345,10645.11119350875,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-17
+Data    2023-06-17_SOJA3.SA_Janela_1
+Name: 166, dtype: object",Venda,10.00071907043457,1064.434579007345,10645.111193508748,10645.111193508748
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-21
+Data    2023-06-21_SOJA3.SA_Janela_1
+Name: 170, dtype: object",Compra,9.827032089233398,1083.2478307638423,10645.111193508748,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-23
+Data    2023-06-23_SOJA3.SA_Janela_1
+Name: 172, dtype: object",Venda,9.808749198913574,1083.2478307638423,10625.306292229705,10625.306292229705
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-24
+Data    2023-06-24_SOJA3.SA_Janela_1
+Name: 173, dtype: object",Compra,9.808749198913574,1083.2478307638423,10625.306292229705,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-27
+Data    2023-06-27_SOJA3.SA_Janela_1
+Name: 176, dtype: object",Venda,9.598496437072754,1083.2478307638423,10397.55044405353,10397.55044405353
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-30
+Data    2023-06-30_SOJA3.SA_Janela_1
+Name: 179, dtype: object",Compra,9.881882667541504,1052.183151112066,10397.55044405353,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-07
+Data    2023-07-07_SOJA3.SA_Janela_1
+Name: 186, dtype: object",Venda,10.512639999389648,1052.183151112066,11061.222681064548,11061.222681064548
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-08
+Data    2023-07-08_SOJA3.SA_Janela_1
+Name: 187, dtype: object",Compra,10.512639999389648,1052.183151112066,11061.222681064548,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-10
+Data    2023-07-10_SOJA3.SA_Janela_1
+Name: 189, dtype: object",Venda,10.503498077392578,1052.183151112066,11051.60370477045,11051.60370477045
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-12
+Data    2023-07-12_SOJA3.SA_Janela_1
+Name: 191, dtype: object",Compra,10.677186012268066,1035.067075919833,11051.60370477045,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-14
+Data    2023-07-14_SOJA3.SA_Janela_1
+Name: 193, dtype: object",Venda,10.329812049865724,1035.067075919833,10692.048353255972,10692.048353255972
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-19
+Data    2023-07-19_SOJA3.SA_Janela_1
+Name: 198, dtype: object",Compra,10.47607421875,1020.6159416205188,10692.048353255972,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-20
+Data    2023-07-20_SOJA3.SA_Janela_1
+Name: 199, dtype: object",Venda,10.39380168914795,1020.6159416205188,10608.079697986674,10608.079697986674
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-22
+Data    2023-07-22_SOJA3.SA_Janela_1
+Name: 201, dtype: object",Compra,10.631479263305664,997.7990301500419,10608.079697986674,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-26
+Data    2023-07-26_SOJA3.SA_Janela_1
+Name: 205, dtype: object",Venda,10.421224594116213,997.7990301500419,10398.28779298492,10398.28779298492
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-28
+Data    2023-07-28_SOJA3.SA_Janela_1
+Name: 207, dtype: object",Compra,10.40294361114502,999.5524518507327,10398.28779298492,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-29
+Data    2023-07-29_SOJA3.SA_Janela_1
+Name: 208, dtype: object",Venda,10.40294361114502,999.5524518507327,10398.28779298492,10398.28779298492
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-01
+Data    2023-08-01_SOJA3.SA_Janela_1
+Name: 211, dtype: object",Compra,10.80516529083252,962.3441671741192,10398.28779298492,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-03
+Data    2023-08-03_SOJA3.SA_Janela_1
+Name: 213, dtype: object",Venda,10.768600463867188,962.3441671741192,10363.099845031102,10363.099845031102
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-04
+Data    2023-08-04_SOJA3.SA_Janela_1
+Name: 214, dtype: object",Compra,10.914862632751465,949.4484899823909,10363.099845031102,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-08
+Data    2023-08-08_SOJA3.SA_Janela_1
+Name: 218, dtype: object",Venda,10.576629638671877,949.4484899823909,10041.965039540015,10041.965039540015
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-11
+Data    2023-08-11_SOJA3.SA_Janela_1
+Name: 221, dtype: object",Compra,11.417641639709473,879.5130690225042,10041.965039540015,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-13
+Data    2023-08-13_SOJA3.SA_Janela_1
+Name: 223, dtype: object",Venda,11.417641639709473,879.5130690225042,10041.965039540015,10041.965039540015
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-15
+Data    2023-08-15_SOJA3.SA_Janela_1
+Name: 225, dtype: object",Compra,12.121530532836914,828.4403534963336,10041.965039540015,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-17
+Data    2023-08-17_SOJA3.SA_Janela_1
+Name: 227, dtype: object",Venda,12.112388610839844,828.4403534963336,10034.391502449125,10034.391502449125
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-18
+Data    2023-08-18_SOJA3.SA_Janela_1
+Name: 228, dtype: object",Compra,12.432339668273926,807.1201214085131,10034.391502449125,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-22
+Data    2023-08-22_SOJA3.SA_Janela_1
+Name: 232, dtype: object",Venda,12.596884727478027,807.1201214085131,10167.19913061111,10167.19913061111
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-23
+Data    2023-08-23_SOJA3.SA_Janela_1
+Name: 233, dtype: object",Compra,12.74314785003662,797.8561694692959,10167.19913061111,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-26
+Data    2023-08-26_SOJA3.SA_Janela_1
+Name: 236, dtype: object",Venda,12.74314785003662,797.8561694692959,10167.19913061111,10167.19913061111
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-29
+Data    2023-08-29_SOJA3.SA_Janela_1
+Name: 239, dtype: object",Compra,13.639007568359377,745.4500688303463,10167.19913061111,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-31
+Data    2023-08-31_SOJA3.SA_Janela_1
+Name: 241, dtype: object",Venda,13.392189025878906,745.4500688303463,9983.208231130438,9983.208231130438
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-07
+Data    2023-09-07_SOJA3.SA_Janela_1
+Name: 248, dtype: object",Compra,12.825420379638672,778.3922815488792,9983.208231130438,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-15
+Data    2023-09-15_SOJA3.SA_Janela_1
+Name: 256, dtype: object",Venda,13.145371437072754,778.3922815488792,10232.25566471053,10232.25566471053
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-20
+Data    2023-09-20_SOJA3.SA_Janela_1
+Name: 261, dtype: object",Compra,12.925976753234863,791.604059023996,10232.25566471053,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-22
+Data    2023-09-22_SOJA3.SA_Janela_1
+Name: 263, dtype: object",Venda,12.606026649475098,791.604059023996,9978.981863889152,9978.981863889152
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-23
+Data    2023-09-23_SOJA3.SA_Janela_1
+Name: 264, dtype: object",Compra,12.606026649475098,791.604059023996,9978.981863889152,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-26
+Data    2023-09-26_SOJA3.SA_Janela_1
+Name: 267, dtype: object",Venda,12.112388610839844,791.604059023996,9588.21598881684,9588.21598881684
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-29
+Data    2023-09-29_SOJA3.SA_Janela_1
+Name: 270, dtype: object",Compra,12.139813423156738,789.8157619562162,9588.21598881684,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-03
+Data    2023-10-03_SOJA3.SA_Janela_1
+Name: 274, dtype: object",Venda,11.554762840270996,789.8157619562162,9126.13381691201,9126.13381691201
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-06
+Data    2023-10-06_SOJA3.SA_Janela_1
+Name: 277, dtype: object",Compra,11.445066452026367,797.385830406971,9126.13381691201,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-07
+Data    2023-10-07_SOJA3.SA_Janela_1
+Name: 278, dtype: object",Venda,11.445066452026367,797.385830406971,9126.13381691201,9126.13381691201
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-11
+Data    2023-10-11_SOJA3.SA_Janela_1
+Name: 282, dtype: object",Compra,12.176380157470703,749.4948169233002,9126.13381691201,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-14
+Data    2023-10-14_SOJA3.SA_Janela_1
+Name: 285, dtype: object",Venda,12.148954391479492,749.4948169233002,9105.578347451445,9105.578347451445
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-20
+Data    2023-10-20_SOJA3.SA_Janela_1
+Name: 291, dtype: object",Compra,11.874711990356444,766.8041426896217,9105.578347451445,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-26
+Data    2023-10-26_SOJA3.SA_Janela_1
+Name: 297, dtype: object",Venda,12.368349075317385,766.8041426896217,9484.101309184722,9484.101309184722
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-27
+Data    2023-10-27_SOJA3.SA_Janela_1
+Name: 298, dtype: object",Compra,11.99355125427246,790.7667302298144,9484.101309184722,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-28
+Data    2023-10-28_SOJA3.SA_Janela_1
+Name: 299, dtype: object",Venda,11.99355125427246,790.7667302298144,9484.101309184722,9484.101309184722
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-01
+Data    2023-11-01_SOJA3.SA_Janela_1
+Name: 303, dtype: object",Compra,11.770597457885742,805.7451070872213,9484.101309184722,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-07
+Data    2023-11-07_SOJA3.SA_Janela_1
+Name: 309, dtype: object",Venda,12.25102996826172,805.7451070872213,9871.207453705798,9871.207453705798
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-08
+Data    2023-11-08_SOJA3.SA_Janela_1
+Name: 310, dtype: object",Compra,12.454289436340332,792.5949934086672,9871.207453705798,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-10
+Data    2023-11-10_SOJA3.SA_Janela_1
+Name: 312, dtype: object",Venda,13.248851776123049,792.5949934086672,10500.973586168657,10500.973586168657
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-11
+Data    2023-11-11_SOJA3.SA_Janela_1
+Name: 313, dtype: object",Compra,13.248851776123049,792.5949934086673,10500.973586168657,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-15
+Data    2023-11-15_SOJA3.SA_Janela_1
+Name: 317, dtype: object",Venda,13.396677017211914,792.5949934086673,10618.139132155122,10618.139132155122
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-17
+Data    2023-11-17_SOJA3.SA_Janela_1
+Name: 319, dtype: object",Compra,14.034173011779783,756.5917224508088,10618.139132155122,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-22
+Data    2023-11-22_SOJA3.SA_Janela_1
+Name: 324, dtype: object",Venda,13.535263061523438,756.5917224508088,10240.667993542826,10240.667993542826
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-24
+Data    2023-11-24_SOJA3.SA_Janela_1
+Name: 326, dtype: object",Compra,13.8124361038208,741.4092573221062,10240.667993542826,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-30
+Data    2023-11-30_SOJA3.SA_Janela_1
+Name: 332, dtype: object",Venda,14.597758293151855,741.4092573221062,10822.913134693334,10822.913134693334
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-01
+Data    2023-12-01_SOJA3.SA_Janela_1
+Name: 333, dtype: object",Compra,14.440693855285645,749.4732069769545,10822.913134693334,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-02
+Data    2023-12-02_SOJA3.SA_Janela_1
+Name: 334, dtype: object",Venda,14.440693855285645,749.4732069769545,10822.913134693334,10822.913134693334
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-06
+Data    2023-12-06_SOJA3.SA_Janela_1
+Name: 338, dtype: object",Compra,13.073307991027832,827.8633947980926,10822.913134693334,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-07
+Data    2023-12-07_SOJA3.SA_Janela_1
+Name: 339, dtype: object",Venda,13.664610862731934,827.8633947980926,11312.431137416152,11312.431137416152
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-08
+Data    2023-12-08_SOJA3.SA_Janela_1
+Name: 340, dtype: object",Compra,14.08960819244385,802.8918180622597,11312.431137416152,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-12
+Data    2023-12-12_SOJA3.SA_Janela_1
+Name: 344, dtype: object",Venda,14.542323112487791,802.8918180622597,11675.912242634142,11675.912242634142
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-13
+Data    2023-12-13_SOJA3.SA_Janela_1
+Name: 345, dtype: object",Compra,14.496128082275392,805.4504055403894,11675.912242634142,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-14
+Data    2023-12-14_SOJA3.SA_Janela_1
+Name: 346, dtype: object",Venda,14.551563262939451,805.4504055403894,11720.562531381212,11720.562531381212
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-15
+Data    2023-12-15_SOJA3.SA_Janela_1
+Name: 347, dtype: object",Compra,13.94178295135498,840.6788839186532,11720.562531381212,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-16
+Data    2023-12-16_SOJA3.SA_Janela_1
+Name: 348, dtype: object",Venda,13.94178295135498,840.6788839186532,11720.562531381212,11720.562531381212
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-17
+Data    2023-12-17_SOJA3.SA_Janela_1
+Name: 349, dtype: object",Compra,13.94178295135498,840.6788839186532,11720.562531381212,0.0
+SOJA3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-29
+Data    2023-12-29_SOJA3.SA_Janela_1
+Name: 361, dtype: object",Venda,15.800615310668944,840.6788839186532,13283.243644601152,13283.243644601152
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-05
+Data    2023-01-05_JBSS3.SA_Janela_1
+Name: 3, dtype: object",Compra,19.27046585083008,518.9288145605077,10000.0,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-11
+Data    2023-01-11_JBSS3.SA_Janela_1
+Name: 9, dtype: object",Venda,19.540775299072266,518.9288145605077,10140.271361540821,10140.271361540821
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-18
+Data    2023-01-18_JBSS3.SA_Janela_1
+Name: 16, dtype: object",Compra,18.799604415893555,539.3874858860347,10140.271361540821,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-19
+Data    2023-01-19_JBSS3.SA_Janela_1
+Name: 17, dtype: object",Venda,18.921680450439453,539.3874858860347,10206.11764690147,10206.11764690147
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-20
+Data    2023-01-20_JBSS3.SA_Janela_1
+Name: 18, dtype: object",Compra,18.834482192993164,541.8846954390053,10206.11764690147,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-21
+Data    2023-01-21_JBSS3.SA_Janela_1
+Name: 19, dtype: object",Venda,18.834482192993164,541.8846954390053,10206.11764690147,10206.11764690147
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-24
+Data    2023-01-24_JBSS3.SA_Janela_1
+Name: 22, dtype: object",Compra,19.27046585083008,529.6248531771658,10206.11764690147,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-26
+Data    2023-01-26_JBSS3.SA_Janela_1
+Name: 24, dtype: object",Venda,19.113510131835938,529.6248531771658,10122.98999727388,10122.98999727388
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-02
+Data    2023-02-02_JBSS3.SA_Janela_1
+Name: 31, dtype: object",Compra,17.30854034423828,584.8552099682774,10122.98999727388,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-03
+Data    2023-02-03_JBSS3.SA_Janela_1
+Name: 32, dtype: object",Venda,17.169025421142578,584.8552099682774,10041.393967633036,10041.393967633036
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-09
+Data    2023-02-09_JBSS3.SA_Janela_1
+Name: 38, dtype: object",Compra,16.218584060668945,619.128891281208,10041.393967633036,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-10
+Data    2023-02-10_JBSS3.SA_Janela_1
+Name: 39, dtype: object",Venda,16.427854537963867,619.128891281208,10170.95936621853,10170.95936621853
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-11
+Data    2023-02-11_JBSS3.SA_Janela_1
+Name: 40, dtype: object",Compra,16.427854537963867,619.128891281208,10170.95936621853,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-15
+Data    2023-02-15_JBSS3.SA_Janela_1
+Name: 44, dtype: object",Venda,17.13414764404297,619.128891281208,10608.245833904844,10608.245833904844
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-16
+Data    2023-02-16_JBSS3.SA_Janela_1
+Name: 45, dtype: object",Compra,16.576087951660156,639.9728250019565,10608.245833904844,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-17
+Data    2023-02-17_JBSS3.SA_Janela_1
+Name: 46, dtype: object",Venda,16.323217391967773,639.9728250019565,10446.415547458684,10446.415547458684
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-24
+Data    2023-02-24_JBSS3.SA_Janela_1
+Name: 53, dtype: object",Compra,16.401695251464844,636.9107209528057,10446.415547458684,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-25
+Data    2023-02-25_JBSS3.SA_Janela_1
+Name: 54, dtype: object",Venda,16.401695251464844,636.9107209528057,10446.415547458684,10446.415547458684
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-01
+Data    2023-03-01_JBSS3.SA_Janela_1
+Name: 58, dtype: object",Compra,16.741764068603516,623.9734059476597,10446.415547458684,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-08
+Data    2023-03-08_JBSS3.SA_Janela_1
+Name: 65, dtype: object",Venda,17.3172607421875,623.9734059476597,10805.51016698643,10805.51016698643
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-09
+Data    2023-03-09_JBSS3.SA_Janela_1
+Name: 66, dtype: object",Compra,17.11670684814453,631.284409019236,10805.51016698643,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-10
+Data    2023-03-10_JBSS3.SA_Janela_1
+Name: 67, dtype: object",Venda,16.663286209106445,631.284409019236,10519.272786834148,10519.272786834148
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-15
+Data    2023-03-15_JBSS3.SA_Janela_1
+Name: 72, dtype: object",Compra,16.785362243652344,626.6932243784123,10519.272786834148,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-21
+Data    2023-03-21_JBSS3.SA_Janela_1
+Name: 78, dtype: object",Venda,16.689443588256836,626.6932243784123,10459.161215406297,10459.161215406297
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-22
+Data    2023-03-22_JBSS3.SA_Janela_1
+Name: 79, dtype: object",Compra,16.148826599121094,647.6731390487245,10459.161215406297,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-23
+Data    2023-03-23_JBSS3.SA_Janela_1
+Name: 80, dtype: object",Venda,15.895954132080078,647.6731390487245,10295.382510898846,10295.382510898846
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-28
+Data    2023-03-28_JBSS3.SA_Janela_1
+Name: 85, dtype: object",Compra,15.616926193237305,659.2451282351017,10295.382510898846,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-29
+Data    2023-03-29_JBSS3.SA_Janela_1
+Name: 86, dtype: object",Venda,15.651804924011229,659.2451282351017,10318.376144240578,10318.376144240578
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-30
+Data    2023-03-30_JBSS3.SA_Janela_1
+Name: 87, dtype: object",Compra,15.878514289855955,649.832594906723,10318.376144240578,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-01
+Data    2023-04-01_JBSS3.SA_Janela_1
+Name: 89, dtype: object",Venda,15.564606666564938,649.832594906723,10114.388738836373,10114.388738836373
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-05
+Data    2023-04-05_JBSS3.SA_Janela_1
+Name: 93, dtype: object",Compra,15.015268325805664,673.6069259217631,10114.388738836373,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-06
+Data    2023-04-06_JBSS3.SA_Janela_1
+Name: 94, dtype: object",Venda,14.640323638916016,673.6069259217631,9861.823400909938,9861.823400909938
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-11
+Data    2023-04-11_JBSS3.SA_Janela_1
+Name: 99, dtype: object",Compra,15.259418487548828,646.2777994428067,9861.823400909938,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-13
+Data    2023-04-13_JBSS3.SA_Janela_1
+Name: 101, dtype: object",Venda,14.744957923889158,646.2777994428067,9529.33895992786,9529.33895992786
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-18
+Data    2023-04-18_JBSS3.SA_Janela_1
+Name: 106, dtype: object",Compra,15.111184120178224,630.6149726018605,9529.33895992786,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-20
+Data    2023-04-20_JBSS3.SA_Janela_1
+Name: 108, dtype: object",Venda,14.954229354858398,630.6149726018605,9430.360934895967,9430.360934895967
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-21
+Data    2023-04-21_JBSS3.SA_Janela_1
+Name: 109, dtype: object",Compra,14.954229354858398,630.6149726018605,9430.360934895967,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-25
+Data    2023-04-25_JBSS3.SA_Janela_1
+Name: 113, dtype: object",Venda,14.692641258239746,630.6149726018605,9265.399564513822,9265.399564513822
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-28
+Data    2023-04-28_JBSS3.SA_Janela_1
+Name: 116, dtype: object",Compra,15.608205795288086,593.6236160668079,9265.399564513822,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-03
+Data    2023-05-03_JBSS3.SA_Janela_1
+Name: 121, dtype: object",Venda,15.372775077819824,593.6236160668079,9125.642330677108,9125.642330677108
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-04
+Data    2023-05-04_JBSS3.SA_Janela_1
+Name: 122, dtype: object",Compra,15.651804924011229,583.0408936848926,9125.642330677108,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-09
+Data    2023-05-09_JBSS3.SA_Janela_1
+Name: 127, dtype: object",Venda,15.512290000915527,583.0408936848926,9044.299425233012,9044.299425233012
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-16
+Data    2023-05-16_JBSS3.SA_Janela_1
+Name: 134, dtype: object",Compra,14.143301010131836,639.4758492910494,9044.299425233012,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-18
+Data    2023-05-18_JBSS3.SA_Janela_1
+Name: 136, dtype: object",Venda,14.300254821777344,639.4758492910494,9144.667597234491,9144.667597234491
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-19
+Data    2023-05-19_JBSS3.SA_Janela_1
+Name: 137, dtype: object",Compra,14.82343578338623,616.9060756807559,9144.667597234491,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-24
+Data    2023-05-24_JBSS3.SA_Janela_1
+Name: 142, dtype: object",Venda,14.082262992858888,616.9060756807559,8687.433599628914,8687.433599628914
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-26
+Data    2023-05-26_JBSS3.SA_Janela_1
+Name: 144, dtype: object",Compra,14.300254821777344,607.5020136283958,8687.433599628914,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-27
+Data    2023-05-27_JBSS3.SA_Janela_1
+Name: 145, dtype: object",Venda,14.300254821777344,607.5020136283958,8687.433599628914,8687.433599628914
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-30
+Data    2023-05-30_JBSS3.SA_Janela_1
+Name: 148, dtype: object",Compra,14.308975219726564,607.1317803145182,8687.433599628914,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-02
+Data    2023-06-02_JBSS3.SA_Janela_1
+Name: 151, dtype: object",Venda,14.622883796691898,607.1317803145182,8878.017472817874,8878.017472817874
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-03
+Data    2023-06-03_JBSS3.SA_Janela_1
+Name: 152, dtype: object",Compra,14.622883796691898,607.1317803145182,8878.017472817874,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-15
+Data    2023-06-15_JBSS3.SA_Janela_1
+Name: 164, dtype: object",Venda,15.88723373413086,607.1317803145182,9645.64450127574,9645.64450127574
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-16
+Data    2023-06-16_JBSS3.SA_Janela_1
+Name: 165, dtype: object",Compra,15.590765953063965,618.6767558639501,9645.64450127574,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-17
+Data    2023-06-17_JBSS3.SA_Janela_1
+Name: 166, dtype: object",Venda,15.590765953063965,618.6767558639501,9645.64450127574,9645.64450127574
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-20
+Data    2023-06-20_JBSS3.SA_Janela_1
+Name: 169, dtype: object",Compra,16.863840103149414,571.9720088827434,9645.64450127574,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-22
+Data    2023-06-22_JBSS3.SA_Janela_1
+Name: 171, dtype: object",Venda,16.375537872314453,571.9720088827434,9366.349293363142,9366.349293363142
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-28
+Data    2023-06-28_JBSS3.SA_Janela_1
+Name: 177, dtype: object",Compra,15.049283981323244,622.378400526374,9366.349293363142,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-29
+Data    2023-06-29_JBSS3.SA_Janela_1
+Name: 178, dtype: object",Venda,16.05318260192871,622.378400526374,9991.154111146205,9991.154111146205
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-30
+Data    2023-06-30_JBSS3.SA_Janela_1
+Name: 179, dtype: object",Compra,16.080812454223633,621.3090376862161,9991.154111146205,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-05
+Data    2023-07-05_JBSS3.SA_Janela_1
+Name: 184, dtype: object",Venda,16.743940353393555,621.3090376862161,10403.161468042352,10403.161468042352
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-06
+Data    2023-07-06_JBSS3.SA_Janela_1
+Name: 185, dtype: object",Compra,16.246593475341797,640.3287854670401,10403.161468042352,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-07
+Data    2023-07-07_JBSS3.SA_Janela_1
+Name: 186, dtype: object",Venda,16.347904205322266,640.3287854670401,10468.033644725523,10468.033644725523
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-08
+Data    2023-07-08_JBSS3.SA_Janela_1
+Name: 187, dtype: object",Compra,16.347904205322266,640.3287854670401,10468.033644725523,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-11
+Data    2023-07-11_JBSS3.SA_Janela_1
+Name: 190, dtype: object",Venda,15.87819004058838,640.3287854670401,10167.26214410481,10167.26214410481
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-13
+Data    2023-07-13_JBSS3.SA_Janela_1
+Name: 192, dtype: object",Compra,17.793888092041016,571.3906983967433,10167.26214410481,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-15
+Data    2023-07-15_JBSS3.SA_Janela_1
+Name: 194, dtype: object",Venda,17.50837516784668,571.3906983967433,10004.122714948113,10004.122714948113
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-22
+Data    2023-07-22_JBSS3.SA_Janela_1
+Name: 201, dtype: object",Compra,16.670259475708008,600.1179963351005,10004.122714948113,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-25
+Data    2023-07-25_JBSS3.SA_Janela_1
+Name: 204, dtype: object",Venda,16.513687133789062,600.1179963351005,9910.160834834222,9910.160834834222
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-26
+Data    2023-07-26_JBSS3.SA_Janela_1
+Name: 205, dtype: object",Compra,16.80841064453125,589.5953546362559,9910.160834834222,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-28
+Data    2023-07-28_JBSS3.SA_Janela_1
+Name: 207, dtype: object",Venda,17.029451370239258,589.5953546362559,10040.48541989709,10040.48541989709
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-29
+Data    2023-07-29_JBSS3.SA_Janela_1
+Name: 208, dtype: object",Compra,17.029451370239258,589.5953546362559,10040.48541989709,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-08
+Data    2023-08-08_JBSS3.SA_Janela_1
+Name: 218, dtype: object",Venda,17.932039260864258,589.5953546362559,10572.647047360528,10572.647047360528
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-09
+Data    2023-08-09_JBSS3.SA_Janela_1
+Name: 219, dtype: object",Compra,17.738628387451172,596.0239324276013,10572.647047360528,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-10
+Data    2023-08-10_JBSS3.SA_Janela_1
+Name: 220, dtype: object",Venda,17.849149703979492,596.0239324276013,10638.520397054812,10638.520397054812
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-11
+Data    2023-08-11_JBSS3.SA_Janela_1
+Name: 221, dtype: object",Compra,17.82151985168457,596.9479867930125,10638.520397054812,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-12
+Data    2023-08-12_JBSS3.SA_Janela_1
+Name: 222, dtype: object",Venda,17.82151985168457,596.9479867930125,10638.520397054812,10638.520397054812
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-15
+Data    2023-08-15_JBSS3.SA_Janela_1
+Name: 225, dtype: object",Compra,18.088611602783203,588.1336075245221,10638.520397054812,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-17
+Data    2023-08-17_JBSS3.SA_Janela_1
+Name: 227, dtype: object",Venda,17.91362190246582,588.1336075245221,10535.603073327515,10535.603073327515
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-18
+Data    2023-08-18_JBSS3.SA_Janela_1
+Name: 228, dtype: object",Compra,17.692577362060547,595.4815320417792,10535.603073327515,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-19
+Data    2023-08-19_JBSS3.SA_Janela_1
+Name: 229, dtype: object",Venda,17.692577362060547,595.4815320417792,10535.603073327517,10535.603073327517
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-24
+Data    2023-08-24_JBSS3.SA_Janela_1
+Name: 234, dtype: object",Compra,17.112342834472656,615.6727442430408,10535.603073327517,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-25
+Data    2023-08-25_JBSS3.SA_Janela_1
+Name: 235, dtype: object",Venda,17.066293716430664,615.6727442430408,10507.25188645263,10507.25188645263
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-29
+Data    2023-08-29_JBSS3.SA_Janela_1
+Name: 239, dtype: object",Compra,17.425487518310547,602.9818032586867,10507.25188645263,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-31
+Data    2023-08-31_JBSS3.SA_Janela_1
+Name: 241, dtype: object",Venda,16.94655990600586,602.9818032586867,10218.467251154772,10218.467251154772
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-02
+Data    2023-09-02_JBSS3.SA_Janela_1
+Name: 243, dtype: object",Compra,17.04787254333496,599.3983838851368,10218.467251154772,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-07
+Data    2023-09-07_JBSS3.SA_Janela_1
+Name: 248, dtype: object",Venda,17.084712982177734,599.3983838851368,10240.54935065875,10240.54935065875
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-12
+Data    2023-09-12_JBSS3.SA_Janela_1
+Name: 253, dtype: object",Compra,17.462324142456055,586.4367919824005,10240.54935065875,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-15
+Data    2023-09-15_JBSS3.SA_Janela_1
+Name: 256, dtype: object",Venda,17.425487518310547,586.4367919824005,10218.946998967398,10218.946998967398
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-29
+Data    2023-09-29_JBSS3.SA_Janela_1
+Name: 270, dtype: object",Compra,16.624208450317383,614.7027709323689,10218.946998967398,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-03
+Data    2023-10-03_JBSS3.SA_Janela_1
+Name: 274, dtype: object",Venda,16.71630859375,614.7027709323689,10275.561212338696,10275.561212338696
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-04
+Data    2023-10-04_JBSS3.SA_Janela_1
+Name: 275, dtype: object",Compra,16.771568298339844,612.6774210707437,10275.561212338696,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-07
+Data    2023-10-07_JBSS3.SA_Janela_1
+Name: 278, dtype: object",Venda,16.73472785949707,612.6774210707437,10252.989907277391,10252.989907277391
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-10
+Data    2023-10-10_JBSS3.SA_Janela_1
+Name: 281, dtype: object",Compra,17.305755615234375,592.4612675248699,10252.989907277391,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-14
+Data    2023-10-14_JBSS3.SA_Janela_1
+Name: 285, dtype: object",Venda,17.47153663635254,592.4612675248699,10351.208741180626,10351.208741180626
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-17
+Data    2023-10-17_JBSS3.SA_Janela_1
+Name: 288, dtype: object",Compra,17.526798248291016,590.5932500928936,10351.208741180626,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-18
+Data    2023-10-18_JBSS3.SA_Janela_1
+Name: 289, dtype: object",Venda,17.71099853515625,590.5932500928936,10459.996187268409,10459.996187268409
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-19
+Data    2023-10-19_JBSS3.SA_Janela_1
+Name: 290, dtype: object",Compra,17.47153663635254,598.6878203663315,10459.996187268409,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-20
+Data    2023-10-20_JBSS3.SA_Janela_1
+Name: 291, dtype: object",Venda,17.68337059020996,598.6878203663315,10586.81859538289,10586.81859538289
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-21
+Data    2023-10-21_JBSS3.SA_Janela_1
+Name: 292, dtype: object",Compra,17.68337059020996,598.6878203663315,10586.81859538289,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-25
+Data    2023-10-25_JBSS3.SA_Janela_1
+Name: 296, dtype: object",Venda,17.775468826293945,598.6878203663315,10641.956687603595,10641.956687603595
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-27
+Data    2023-10-27_JBSS3.SA_Janela_1
+Name: 298, dtype: object",Compra,18.30965232849121,581.2211229726029,10641.956687603595,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-28
+Data    2023-10-28_JBSS3.SA_Janela_1
+Name: 299, dtype: object",Venda,18.30965232849121,581.2211229726029,10641.956687603595,10641.956687603595
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-31
+Data    2023-10-31_JBSS3.SA_Janela_1
+Name: 302, dtype: object",Compra,18.44780731201172,576.8683783180245,10641.956687603595,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-09
+Data    2023-11-09_JBSS3.SA_Janela_1
+Name: 311, dtype: object",Venda,19.40565490722656,576.8683783180245,11194.508676530999,11194.508676530999
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-11
+Data    2023-11-11_JBSS3.SA_Janela_1
+Name: 313, dtype: object",Compra,19.62669563293457,570.3715432233054,11194.508676530999,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-14
+Data    2023-11-14_JBSS3.SA_Janela_1
+Name: 316, dtype: object",Venda,19.230663299560547,570.3715432233054,10968.623103378131,10968.623103378131
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-17
+Data    2023-11-17_JBSS3.SA_Janela_1
+Name: 319, dtype: object",Compra,19.930627822875977,550.3400696082722,10968.623103378131,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-18
+Data    2023-11-18_JBSS3.SA_Janela_1
+Name: 320, dtype: object",Venda,19.930627822875977,550.3400696082722,10968.623103378131,10968.623103378131
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-21
+Data    2023-11-21_JBSS3.SA_Janela_1
+Name: 323, dtype: object",Compra,19.62669563293457,558.8624447292206,10968.623103378131,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-22
+Data    2023-11-22_JBSS3.SA_Janela_1
+Name: 324, dtype: object",Venda,20.418764114379883,558.8624447292206,11411.28043131162,11411.28043131162
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-23
+Data    2023-11-23_JBSS3.SA_Janela_1
+Name: 325, dtype: object",Compra,21.0634708404541,541.7568888692043,11411.28043131162,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-30
+Data    2023-11-30_JBSS3.SA_Janela_1
+Name: 332, dtype: object",Venda,21.376611709594727,541.7568888692043,11580.926654355042,11580.926654355042
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-02
+Data    2023-12-02_JBSS3.SA_Janela_1
+Name: 334, dtype: object",Compra,21.97526931762696,526.9981672108868,11580.926654355042,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-05
+Data    2023-12-05_JBSS3.SA_Janela_1
+Name: 337, dtype: object",Venda,21.97526931762696,526.9981672108868,11580.926654355042,11580.926654355042
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-06
+Data    2023-12-06_JBSS3.SA_Janela_1
+Name: 338, dtype: object",Compra,21.652917861938484,534.8436976575802,11580.926654355042,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-07
+Data    2023-12-07_JBSS3.SA_Janela_1
+Name: 339, dtype: object",Venda,21.73580741882324,534.8436976575802,11625.259611456484,11625.259611456484
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-08
+Data    2023-12-08_JBSS3.SA_Janela_1
+Name: 340, dtype: object",Compra,21.993688583374027,528.5725296776511,11625.259611456484,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-12
+Data    2023-12-12_JBSS3.SA_Janela_1
+Name: 344, dtype: object",Venda,21.73580741882324,528.5725296776511,11488.950711953656,11488.950711953656
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-14
+Data    2023-12-14_JBSS3.SA_Janela_1
+Name: 346, dtype: object",Compra,22.076580047607425,520.413519085751,11488.950711953656,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-15
+Data    2023-12-15_JBSS3.SA_Janela_1
+Name: 347, dtype: object",Venda,21.84632682800293,520.413519085751,11369.123823658456,11369.123823658456
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-20
+Data    2023-12-20_JBSS3.SA_Janela_1
+Name: 352, dtype: object",Compra,23.062061309814453,492.9795160513311,11369.123823658456,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-22
+Data    2023-12-22_JBSS3.SA_Janela_1
+Name: 354, dtype: object",Venda,22.90548896789551,492.9795160513311,11291.936866312231,11291.936866312231
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-23
+Data    2023-12-23_JBSS3.SA_Janela_1
+Name: 355, dtype: object",Compra,22.90548896789551,492.979516051331,11291.936866312231,0.0
+JBSS3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-28
+Data    2023-12-28_JBSS3.SA_Janela_1
+Name: 360, dtype: object",Venda,22.94232749938965,492.979516051331,11310.097507740253,11310.097507740253
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-01-05
+Data    2023-01-05_SUZB3.SA_Janela_4
+Name: 0, dtype: object",Compra,47.56026840209961,210.25953670939623,10000.0,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-01-07
+Data    2023-01-07_SUZB3.SA_Janela_4
+Name: 2, dtype: object",Venda,47.2574577331543,210.25953670939623,9936.331169036897,9936.331169036897
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-01-10
+Data    2023-01-10_SUZB3.SA_Janela_4
+Name: 5, dtype: object",Compra,47.29530715942383,210.0912704836305,9936.331169036897,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-01-11
+Data    2023-01-11_SUZB3.SA_Janela_4
+Name: 6, dtype: object",Venda,46.604522705078125,210.0912704836305,9791.203385393068,9791.203385393068
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-01-13
+Data    2023-01-13_SUZB3.SA_Janela_4
+Name: 8, dtype: object",Compra,47.72114181518555,205.17537956892238,9791.203385393068,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-01-19
+Data    2023-01-19_SUZB3.SA_Janela_4
+Name: 14, dtype: object",Venda,46.68968963623047,205.17537956892238,9579.574793068768,9579.574793068768
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-01-25
+Data    2023-01-25_SUZB3.SA_Janela_4
+Name: 20, dtype: object",Compra,44.25774002075195,216.44970548828329,9579.574793068768,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-01-26
+Data    2023-01-26_SUZB3.SA_Janela_4
+Name: 21, dtype: object",Venda,42.96133041381836,216.44970548828329,9298.967315455811,9298.967315455811
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-01-31
+Data    2023-01-31_SUZB3.SA_Janela_4
+Name: 26, dtype: object",Compra,43.8697624206543,211.96757863174042,9298.967315455811,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-02-03
+Data    2023-02-03_SUZB3.SA_Janela_4
+Name: 29, dtype: object",Venda,43.82244491577149,211.96757863174042,9288.937538518907,9288.937538518907
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-02-04
+Data    2023-02-04_SUZB3.SA_Janela_4
+Name: 30, dtype: object",Compra,43.82244491577149,211.96757863174042,9288.937538518907,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-02-07
+Data    2023-02-07_SUZB3.SA_Janela_4
+Name: 33, dtype: object",Venda,43.58587646484375,211.96757863174042,9238.792696795092,9238.792696795092
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-02-10
+Data    2023-02-10_SUZB3.SA_Janela_4
+Name: 36, dtype: object",Compra,43.90761184692383,210.41437482422225,9238.792696795092,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-02-18
+Data    2023-02-18_SUZB3.SA_Janela_4
+Name: 44, dtype: object",Venda,44.437530517578125,210.41437482422225,9350.295202588499,9350.295202588499
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-02-27
+Data    2023-02-27_SUZB3.SA_Janela_4
+Name: 53, dtype: object",Compra,43.85083770751953,213.22956849659255,9350.295202588499,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-03-02
+Data    2023-03-02_SUZB3.SA_Janela_4
+Name: 56, dtype: object",Venda,44.191497802734375,213.22956849659255,9422.934007695168,9422.934007695168
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-03-04
+Data    2023-03-04_SUZB3.SA_Janela_4
+Name: 58, dtype: object",Compra,45.61092376708984,206.59379879725662,9422.934007695168,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-03-07
+Data    2023-03-07_SUZB3.SA_Janela_4
+Name: 61, dtype: object",Venda,45.185096740722656,206.59379879725662,9334.960784687433,9334.960784687433
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-03-15
+Data    2023-03-15_SUZB3.SA_Janela_4
+Name: 69, dtype: object",Compra,41.84471130371094,223.08579731698558,9334.960784687433,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-03-16
+Data    2023-03-16_SUZB3.SA_Janela_4
+Name: 70, dtype: object",Venda,41.62706756591797,223.08579731698558,9286.40755791084,9286.40755791084
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-03-26
+Data    2023-03-26_SUZB3.SA_Janela_4
+Name: 80, dtype: object",Compra,40.340118408203125,230.20278383770082,9286.40755791084,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-03-28
+Data    2023-03-28_SUZB3.SA_Janela_4
+Name: 82, dtype: object",Venda,40.00891876220703,230.20278383770082,9210.164477396478,9210.164477396478
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-03-30
+Data    2023-03-30_SUZB3.SA_Janela_4
+Name: 84, dtype: object",Compra,40.73755645751953,226.08534429404693,9210.164477396478,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-04-01
+Data    2023-04-01_SUZB3.SA_Janela_4
+Name: 86, dtype: object",Venda,39.36544418334961,226.08534429404693,8899.950001480684,8899.950001480684
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-04-04
+Data    2023-04-04_SUZB3.SA_Janela_4
+Name: 89, dtype: object",Compra,40.075157165527344,222.08147468318407,8899.950001480684,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-04-06
+Data    2023-04-06_SUZB3.SA_Janela_4
+Name: 91, dtype: object",Venda,38.19205093383789,222.08147468318407,8481.746992561995,8481.746992561995
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-04-11
+Data    2023-04-11_SUZB3.SA_Janela_4
+Name: 96, dtype: object",Compra,40.2644157409668,210.65118756789238,8481.746992561995,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-04-14
+Data    2023-04-14_SUZB3.SA_Janela_4
+Name: 99, dtype: object",Venda,38.315067291259766,210.65118756789238,8071.114426647579,8071.114426647579
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-04-19
+Data    2023-04-19_SUZB3.SA_Janela_4
+Name: 104, dtype: object",Compra,38.97746658325195,207.0712936000725,8071.114426647579,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-04-21
+Data    2023-04-21_SUZB3.SA_Janela_4
+Name: 106, dtype: object",Venda,38.1352767944336,207.0712936000725,7896.721097620191,7896.721097620191
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-04-29
+Data    2023-04-29_SUZB3.SA_Janela_4
+Name: 114, dtype: object",Compra,37.6621322631836,209.67270367056688,7896.721097620191,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-05-04
+Data    2023-05-04_SUZB3.SA_Janela_4
+Name: 119, dtype: object",Venda,37.47287368774414,209.67270367056688,7857.03874041496,7857.03874041496
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-05-06
+Data    2023-05-06_SUZB3.SA_Janela_4
+Name: 121, dtype: object",Compra,39.374908447265625,199.5443049966149,7857.03874041496,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-05-10
+Data    2023-05-10_SUZB3.SA_Janela_4
+Name: 125, dtype: object",Venda,39.45061111450195,199.5443049966149,7872.144776535023,7872.144776535023
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-05-11
+Data    2023-05-11_SUZB3.SA_Janela_4
+Name: 126, dtype: object",Compra,39.33705520629883,200.12033781508129,7872.144776535023,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-05-12
+Data    2023-05-12_SUZB3.SA_Janela_4
+Name: 127, dtype: object",Venda,40.16032409667969,200.12033781508129,8036.897624990688,8036.897624990688
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-05-13
+Data    2023-05-13_SUZB3.SA_Janela_4
+Name: 128, dtype: object",Compra,40.16032409667969,200.12033781508129,8036.897624990688,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-05-23
+Data    2023-05-23_SUZB3.SA_Janela_4
+Name: 138, dtype: object",Venda,43.3966178894043,200.12033781508129,8684.545832059588,8684.545832059588
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-05-24
+Data    2023-05-24_SUZB3.SA_Janela_4
+Name: 139, dtype: object",Compra,42.1948356628418,205.82011271363936,8684.545832059588,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-05-25
+Data    2023-05-25_SUZB3.SA_Janela_4
+Name: 140, dtype: object",Venda,41.75008010864258,205.82011271363936,8593.006193764288,8593.006193764288
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-05-27
+Data    2023-05-27_SUZB3.SA_Janela_4
+Name: 142, dtype: object",Compra,42.91401290893555,200.2377687679507,8593.006193764288,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-05-31
+Data    2023-05-31_SUZB3.SA_Janela_4
+Name: 146, dtype: object",Venda,42.374629974365234,200.2377687679507,8485.00135843442,8485.00135843442
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-06-03
+Data    2023-06-03_SUZB3.SA_Janela_4
+Name: 149, dtype: object",Compra,43.92653274536133,193.16346700117006,8485.00135843442,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-06-08
+Data    2023-06-08_SUZB3.SA_Janela_4
+Name: 154, dtype: object",Venda,43.36823272705078,193.16346700117006,8377.158191270737,8377.158191270737
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-06-13
+Data    2023-06-13_SUZB3.SA_Janela_4
+Name: 159, dtype: object",Compra,44.5226936340332,188.15479270255173,8377.158191270737,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-06-20
+Data    2023-06-20_SUZB3.SA_Janela_4
+Name: 166, dtype: object",Venda,44.891746520996094,188.15479270255173,8446.597260713517,8446.597260713517
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-07-03
+Data    2023-07-03_SUZB3.SA_Janela_4
+Name: 179, dtype: object",Compra,41.84471130371094,201.85579007601956,8446.597260713517,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-07-07
+Data    2023-07-07_SUZB3.SA_Janela_4
+Name: 183, dtype: object",Venda,42.11913299560547,201.85579007601956,8501.990868144887,8501.990868144887
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-07-08
+Data    2023-07-08_SUZB3.SA_Janela_4
+Name: 184, dtype: object",Compra,42.11913299560547,201.85579007601956,8501.990868144887,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-07-11
+Data    2023-07-11_SUZB3.SA_Janela_4
+Name: 187, dtype: object",Venda,41.683841705322266,201.85579007601956,8414.12480083156,8414.12480083156
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-07-14
+Data    2023-07-14_SUZB3.SA_Janela_4
+Name: 190, dtype: object",Compra,42.156982421875,199.59030076273964,8414.12480083156,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-07-18
+Data    2023-07-18_SUZB3.SA_Janela_4
+Name: 194, dtype: object",Venda,42.17591094970703,199.59030076273964,8417.902751394551,8417.902751394551
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-07-19
+Data    2023-07-19_SUZB3.SA_Janela_4
+Name: 195, dtype: object",Compra,41.1349983215332,204.64089205974216,8417.902751394551,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-07-20
+Data    2023-07-20_SUZB3.SA_Janela_4
+Name: 196, dtype: object",Venda,41.30533218383789,204.64089205974216,8452.760024924564,8452.760024924564
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-07-22
+Data    2023-07-22_SUZB3.SA_Janela_4
+Name: 198, dtype: object",Compra,41.69330978393555,202.73660375558424,8452.760024924564,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-08-03
+Data    2023-08-03_SUZB3.SA_Janela_4
+Name: 210, dtype: object",Venda,46.97357177734375,202.73660375558424,9523.262408407834,9523.262408407834
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-08-04
+Data    2023-08-04_SUZB3.SA_Janela_4
+Name: 211, dtype: object",Compra,47.569732666015625,200.19583619000164,9523.262408407834,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-08-09
+Data    2023-08-09_SUZB3.SA_Janela_4
+Name: 216, dtype: object",Venda,46.65183639526367,200.19583619000164,9339.503396948963,9339.503396948963
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-08-12
+Data    2023-08-12_SUZB3.SA_Janela_4
+Name: 219, dtype: object",Compra,47.47510147094727,196.7242429732212,9339.503396948963,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-08-16
+Data    2023-08-16_SUZB3.SA_Janela_4
+Name: 223, dtype: object",Venda,47.22907257080078,196.7242429732212,9291.10354781811,9291.10354781811
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-08-18
+Data    2023-08-18_SUZB3.SA_Janela_4
+Name: 225, dtype: object",Compra,47.95771026611328,193.73534508346125,9291.10354781811,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-08-22
+Data    2023-08-22_SUZB3.SA_Janela_4
+Name: 229, dtype: object",Venda,47.17229080200195,193.73534508346125,9138.940036903234,9138.940036903234
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-08-26
+Data    2023-08-26_SUZB3.SA_Janela_4
+Name: 233, dtype: object",Compra,47.21961212158203,193.54119244715739,9138.940036903234,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-09-01
+Data    2023-09-01_SUZB3.SA_Janela_4
+Name: 239, dtype: object",Venda,48.35514831542969,193.54119244715739,9358.713065927415,9358.713065927415
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-09-02
+Data    2023-09-02_SUZB3.SA_Janela_4
+Name: 240, dtype: object",Compra,48.35514831542969,193.54119244715739,9358.713065927415,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-09-05
+Data    2023-09-05_SUZB3.SA_Janela_4
+Name: 243, dtype: object",Venda,47.94824600219727,193.54119244715739,9279.960707014907,9279.960707014907
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-09-12
+Data    2023-09-12_SUZB3.SA_Janela_4
+Name: 250, dtype: object",Compra,47.569732666015625,195.0812036756435,9279.960707014907,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-09-19
+Data    2023-09-19_SUZB3.SA_Janela_4
+Name: 257, dtype: object",Venda,49.94490432739258,195.0812036756435,9743.3120536526,9743.3120536526
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-09-20
+Data    2023-09-20_SUZB3.SA_Janela_4
+Name: 258, dtype: object",Compra,51.94157028198242,187.58216204781118,9743.3120536526,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-09-25
+Data    2023-09-25_SUZB3.SA_Janela_4
+Name: 263, dtype: object",Venda,52.24438095092773,187.58216204781118,9800.113933624505,9800.113933624505
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-09-30
+Data    2023-09-30_SUZB3.SA_Janela_4
+Name: 268, dtype: object",Compra,51.364334106445305,190.79608650849357,9800.113933624505,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-10-03
+Data    2023-10-03_SUZB3.SA_Janela_4
+Name: 271, dtype: object",Venda,52.31061935424805,190.79608650849357,9980.661455625988,9980.661455625988
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-10-04
+Data    2023-10-04_SUZB3.SA_Janela_4
+Name: 272, dtype: object",Compra,52.04566192626952,191.76740358812404,9980.661455625988,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-10-17
+Data    2023-10-17_SUZB3.SA_Janela_4
+Name: 285, dtype: object",Venda,54.38298416137695,191.76740358812404,10428.883672001331,10428.883672001331
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-11-07
+Data    2023-11-07_SUZB3.SA_Janela_4
+Name: 306, dtype: object",Compra,49.26358413696289,211.69559330086278,10428.883672001331,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-11-14
+Data    2023-11-14_SUZB3.SA_Janela_4
+Name: 313, dtype: object",Venda,49.67995071411133,211.69559330086278,10517.026641581419,10517.026641581419
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-11-17
+Data    2023-11-17_SUZB3.SA_Janela_4
+Name: 316, dtype: object",Compra,50.0963134765625,209.93613924309614,10517.026641581419,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-11-18
+Data    2023-11-18_SUZB3.SA_Janela_4
+Name: 317, dtype: object",Venda,50.0963134765625,209.93613924309614,10517.026641581419,10517.026641581419
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-11-22
+Data    2023-11-22_SUZB3.SA_Janela_4
+Name: 321, dtype: object",Compra,50.55999374389648,208.01083747861455,10517.026641581419,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-11-26
+Data    2023-11-26_SUZB3.SA_Janela_4
+Name: 325, dtype: object",Venda,50.59784698486328,208.01083747861455,10524.900525936204,10524.900525936204
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-11-28
+Data    2023-11-28_SUZB3.SA_Janela_4
+Name: 327, dtype: object",Compra,50.48429107666016,208.4787228160576,10524.900525936204,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-11-29
+Data    2023-11-29_SUZB3.SA_Janela_4
+Name: 328, dtype: object",Venda,51.33594512939453,208.4787228160576,10702.452275131385,10702.452275131385
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-11-30
+Data    2023-11-30_SUZB3.SA_Janela_4
+Name: 329, dtype: object",Compra,50.89119338989258,210.30067408985113,10702.452275131385,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-12-01
+Data    2023-12-01_SUZB3.SA_Janela_4
+Name: 330, dtype: object",Venda,48.97969818115234,210.30067408985113,10300.463544213791,10300.463544213791
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-12-09
+Data    2023-12-09_SUZB3.SA_Janela_4
+Name: 338, dtype: object",Compra,49.16640853881836,209.50205333955327,10300.463544213791,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-12-13
+Data    2023-12-13_SUZB3.SA_Janela_4
+Name: 342, dtype: object",Venda,50.2122917175293,209.50205333955327,10519.578217707032,10519.578217707032
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-12-14
+Data    2023-12-14_SUZB3.SA_Janela_4
+Name: 343, dtype: object",Compra,50.75460433959961,207.26352524236856,10519.578217707032,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-12-19
+Data    2023-12-19_SUZB3.SA_Janela_4
+Name: 348, dtype: object",Venda,51.29692077636719,207.26352524236856,10631.980634188361,10631.980634188361
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-12-20
+Data    2023-12-20_SUZB3.SA_Janela_4
+Name: 349, dtype: object",Compra,52.19754409790038,203.68737299684616,10631.980634188361,0.0
+SUZB3.SA,Janela_4,Direção Previsão,True,"Data                      2023-12-31
+Data    2023-12-31_SUZB3.SA_Janela_4
+Name: 360, dtype: object",Venda Final,53.87290191650391,203.68737299684616,10973.229867089442,10973.229867089442
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-05
+Data    2023-01-05_BEEF3.SA_Janela_1
+Name: 3, dtype: object",Compra,12.334979057312012,810.7026330192375,10000.0,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-17
+Data    2023-01-17_BEEF3.SA_Janela_1
+Name: 15, dtype: object",Venda,14.353087425231934,810.7026330192375,11636.085767590837,11636.085767590837
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-18
+Data    2023-01-18_BEEF3.SA_Janela_1
+Name: 16, dtype: object",Compra,14.51340389251709,801.7475330918229,11636.085767590837,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-24
+Data    2023-01-24_BEEF3.SA_Janela_1
+Name: 22, dtype: object",Venda,13.890995979309082,801.7475330918229,11137.071758599488,11137.071758599488
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-26
+Data    2023-01-26_BEEF3.SA_Janela_1
+Name: 24, dtype: object",Compra,13.909857749938965,800.6603632340062,11137.071758599488,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-27
+Data    2023-01-27_BEEF3.SA_Janela_1
+Name: 25, dtype: object",Venda,13.664666175842283,800.6603632340062,10940.756583821321,10940.756583821321
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-08
+Data    2023-02-08_BEEF3.SA_Janela_1
+Name: 37, dtype: object",Compra,12.66504383087158,863.854616685397,10940.756583821321,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-09
+Data    2023-02-09_BEEF3.SA_Janela_1
+Name: 38, dtype: object",Venda,12.363269805908203,863.854616685397,10680.067699160973,10680.067699160973
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-11
+Data    2023-02-11_BEEF3.SA_Janela_1
+Name: 40, dtype: object",Compra,12.438713073730469,858.615166686045,10680.067699160973,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-14
+Data    2023-02-14_BEEF3.SA_Janela_1
+Name: 43, dtype: object",Venda,11.97662353515625,858.615166686045,10283.310612974194,10283.310612974194
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-16
+Data    2023-02-16_BEEF3.SA_Janela_1
+Name: 45, dtype: object",Compra,11.665419578552246,881.5208526130373,10283.310612974194,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-17
+Data    2023-02-17_BEEF3.SA_Janela_1
+Name: 46, dtype: object",Venda,11.674850463867188,881.5208526130373,10291.624135037917,10291.624135037917
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-18
+Data    2023-02-18_BEEF3.SA_Janela_1
+Name: 47, dtype: object",Compra,11.674850463867188,881.5208526130373,10291.624135037917,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-23
+Data    2023-02-23_BEEF3.SA_Janela_1
+Name: 52, dtype: object",Venda,11.127886772155763,881.5208526130373,9809.464235172089,9809.464235172089
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-24
+Data    2023-02-24_BEEF3.SA_Janela_1
+Name: 53, dtype: object",Compra,10.863835334777832,902.946697265335,9809.464235172089,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-25
+Data    2023-02-25_BEEF3.SA_Janela_1
+Name: 54, dtype: object",Venda,10.863835334777832,902.946697265335,9809.464235172089,9809.464235172089
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-01
+Data    2023-03-01_BEEF3.SA_Janela_1
+Name: 58, dtype: object",Compra,10.76010036468506,911.6517414063362,9809.464235172089,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-03
+Data    2023-03-03_BEEF3.SA_Janela_1
+Name: 60, dtype: object",Venda,11.127886772155763,911.6517414063362,10144.757354008336,10144.757354008336
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-04
+Data    2023-03-04_BEEF3.SA_Janela_1
+Name: 61, dtype: object",Compra,11.127886772155763,911.6517414063362,10144.757354008336,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-07
+Data    2023-03-07_BEEF3.SA_Janela_1
+Name: 64, dtype: object",Venda,11.18446922302246,911.6517414063362,10196.340843873997,10196.340843873997
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-08
+Data    2023-03-08_BEEF3.SA_Janela_1
+Name: 65, dtype: object",Compra,11.212759971618652,909.3515664013695,10196.340843873997,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-10
+Data    2023-03-10_BEEF3.SA_Janela_1
+Name: 67, dtype: object",Venda,11.014720916748049,909.3515664013695,10016.253719118768,10016.253719118768
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-17
+Data    2023-03-17_BEEF3.SA_Janela_1
+Name: 74, dtype: object",Compra,11.03358268737793,907.7970413524018,10016.253719118768,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-21
+Data    2023-03-21_BEEF3.SA_Janela_1
+Name: 78, dtype: object",Venda,10.628074645996094,907.7970413524018,9648.13471890773,9648.13471890773
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-22
+Data    2023-03-22_BEEF3.SA_Janela_1
+Name: 79, dtype: object",Compra,10.656366348266603,905.3869211691585,9648.13471890773,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-28
+Data    2023-03-28_BEEF3.SA_Janela_1
+Name: 85, dtype: object",Venda,10.920416831970217,905.3869211691585,9887.20257338137,9887.20257338137
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-29
+Data    2023-03-29_BEEF3.SA_Janela_1
+Name: 86, dtype: object",Compra,10.72237777709961,922.1091421063367,9887.20257338137,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-30
+Data    2023-03-30_BEEF3.SA_Janela_1
+Name: 87, dtype: object",Venda,10.50547981262207,922.1091421063367,9687.198977432376,9687.198977432376
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-07
+Data    2023-04-07_BEEF3.SA_Janela_1
+Name: 95, dtype: object",Compra,9.543577194213867,1015.0490513458186,9687.198977432376,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-11
+Data    2023-04-11_BEEF3.SA_Janela_1
+Name: 99, dtype: object",Venda,9.37382984161377,1015.0490513458186,9514.897088207183,9514.897088207183
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-13
+Data    2023-04-13_BEEF3.SA_Janela_1
+Name: 101, dtype: object",Compra,8.86458683013916,1073.360470209057,9514.897088207183,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-14
+Data    2023-04-14_BEEF3.SA_Janela_1
+Name: 102, dtype: object",Venda,8.921170234680176,1073.360470209057,9575.631477911356,9575.631477911356
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-15
+Data    2023-04-15_BEEF3.SA_Janela_1
+Name: 103, dtype: object",Compra,8.921170234680176,1073.360470209057,9575.631477911356,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-18
+Data    2023-04-18_BEEF3.SA_Janela_1
+Name: 106, dtype: object",Venda,8.591104507446289,1073.360470209057,9221.351973727698,9221.351973727698
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-21
+Data    2023-04-21_BEEF3.SA_Janela_1
+Name: 109, dtype: object",Compra,8.744830131530762,1054.4918351791382,9221.351973727698,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-25
+Data    2023-04-25_BEEF3.SA_Janela_1
+Name: 113, dtype: object",Venda,8.28354263305664,1054.4918351791382,8734.928072916528,8734.928072916528
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-28
+Data    2023-04-28_BEEF3.SA_Janela_1
+Name: 116, dtype: object",Compra,8.391504287719727,1040.9251754419495,8734.928072916528,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-03
+Data    2023-05-03_BEEF3.SA_Janela_1
+Name: 121, dtype: object",Venda,8.342430114746094,1040.9251754419495,8683.845530804281,8683.845530804281
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-04
+Data    2023-05-04_BEEF3.SA_Janela_1
+Name: 122, dtype: object",Compra,8.28354263305664,1048.3250845055322,8683.845530804281,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-05
+Data    2023-05-05_BEEF3.SA_Janela_1
+Name: 123, dtype: object",Venda,8.646684646606445,1048.3250845055322,9064.53641284639,9064.53641284639
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-06
+Data    2023-05-06_BEEF3.SA_Janela_1
+Name: 124, dtype: object",Compra,8.646684646606445,1048.3250845055322,9064.53641284639,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-07
+Data    2023-05-07_BEEF3.SA_Janela_1
+Name: 125, dtype: object",Venda,8.646684646606445,1048.3250845055322,9064.53641284639,9064.53641284639
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-09
+Data    2023-05-09_BEEF3.SA_Janela_1
+Name: 127, dtype: object",Compra,8.9607515335083,1011.582162383366,9064.53641284639,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-13
+Data    2023-05-13_BEEF3.SA_Janela_1
+Name: 131, dtype: object",Venda,9.490741729736328,1011.582162383366,9600.665041588723,9600.665041588723
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-19
+Data    2023-05-19_BEEF3.SA_Janela_1
+Name: 137, dtype: object",Compra,10.010916709899902,959.0195703151264,9600.665041588723,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-24
+Data    2023-05-24_BEEF3.SA_Janela_1
+Name: 142, dtype: object",Venda,9.54962921142578,959.0195703151264,9158.28130301033,9158.28130301033
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-26
+Data    2023-05-26_BEEF3.SA_Janela_1
+Name: 144, dtype: object",Compra,9.745922088623049,939.7039315244779,9158.28130301033,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-30
+Data    2023-05-30_BEEF3.SA_Janela_1
+Name: 148, dtype: object",Venda,9.65758991241455,939.7039315244779,9075.275209747091,9075.275209747091
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-31
+Data    2023-05-31_BEEF3.SA_Janela_1
+Name: 149, dtype: object",Compra,10.030546188354492,904.7638123917444,9075.275209747091,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-02
+Data    2023-06-02_BEEF3.SA_Janela_1
+Name: 151, dtype: object",Venda,10.16795063018799,904.7638123917444,9199.593776379927,9199.593776379927
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-03
+Data    2023-06-03_BEEF3.SA_Janela_1
+Name: 152, dtype: object",Compra,10.16795063018799,904.7638123917445,9199.593776379927,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-08
+Data    2023-06-08_BEEF3.SA_Janela_1
+Name: 157, dtype: object",Venda,10.46238899230957,904.7638123917445,9465.99095140743,9465.99095140743
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-10
+Data    2023-06-10_BEEF3.SA_Janela_1
+Name: 159, dtype: object",Compra,10.805901527404783,876.0019631310525,9465.99095140743,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-13
+Data    2023-06-13_BEEF3.SA_Janela_1
+Name: 162, dtype: object",Venda,10.913862228393556,876.0019631310525,9560.5647374146,9560.5647374146
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-14
+Data    2023-06-14_BEEF3.SA_Janela_1
+Name: 163, dtype: object",Compra,10.94330596923828,873.6450177203692,9560.5647374146,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-17
+Data    2023-06-17_BEEF3.SA_Janela_1
+Name: 166, dtype: object",Venda,10.953120231628418,873.6450177203692,9569.138918854344,9569.138918854344
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-20
+Data    2023-06-20_BEEF3.SA_Janela_1
+Name: 169, dtype: object",Compra,10.992379188537598,870.5248203985402,9569.138918854344,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-21
+Data    2023-06-21_BEEF3.SA_Janela_1
+Name: 170, dtype: object",Venda,10.972749710083008,870.5248203985402,9552.050970648144,9552.050970648144
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-28
+Data    2023-06-28_BEEF3.SA_Janela_1
+Name: 177, dtype: object",Compra,9.93239974975586,961.7062554175727,9552.050970648144,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-29
+Data    2023-06-29_BEEF3.SA_Janela_1
+Name: 178, dtype: object",Venda,10.187580108642578,961.7062554175727,9797.459518049203,9797.459518049203
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-30
+Data    2023-06-30_BEEF3.SA_Janela_1
+Name: 179, dtype: object",Compra,10.432945251464844,939.0885585902586,9797.459518049203,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-04
+Data    2023-07-04_BEEF3.SA_Janela_1
+Name: 183, dtype: object",Venda,10.05998992919922,939.0885585902586,9447.221442044214,9447.221442044214
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-06
+Data    2023-07-06_BEEF3.SA_Janela_1
+Name: 185, dtype: object",Compra,10.246467590332031,921.9978845156413,9447.221442044214,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-07
+Data    2023-07-07_BEEF3.SA_Janela_1
+Name: 186, dtype: object",Venda,10.32498550415039,921.9978845156413,9519.614792481323,9519.614792481323
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-08
+Data    2023-07-08_BEEF3.SA_Janela_1
+Name: 187, dtype: object",Compra,10.32498550415039,921.9978845156414,9519.614792481323,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-11
+Data    2023-07-11_BEEF3.SA_Janela_1
+Name: 190, dtype: object",Venda,9.598702430725098,921.9978845156414,8849.983335223686,8849.983335223686
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-14
+Data    2023-07-14_BEEF3.SA_Janela_1
+Name: 193, dtype: object",Compra,9.69684886932373,912.6659035824381,8849.983335223686,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-15
+Data    2023-07-15_BEEF3.SA_Janela_1
+Name: 194, dtype: object",Venda,9.69684886932373,912.6659035824381,8849.983335223686,8849.983335223686
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-20
+Data    2023-07-20_BEEF3.SA_Janela_1
+Name: 199, dtype: object",Compra,9.65758991241455,916.3759711775801,8849.983335223686,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-25
+Data    2023-07-25_BEEF3.SA_Janela_1
+Name: 204, dtype: object",Venda,9.166858673095703,916.3759711775801,8400.289019205698,8400.289019205698
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-27
+Data    2023-07-27_BEEF3.SA_Janela_1
+Name: 206, dtype: object",Compra,9.372965812683104,896.225291661555,8400.289019205698,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-08
+Data    2023-08-08_BEEF3.SA_Janela_1
+Name: 218, dtype: object",Venda,10.413315773010254,896.225291661555,9332.676965829987,9332.676965829987
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-10
+Data    2023-08-10_BEEF3.SA_Janela_1
+Name: 220, dtype: object",Compra,10.854974746704102,859.760357219041,9332.676965829987,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-12
+Data    2023-08-12_BEEF3.SA_Janela_1
+Name: 222, dtype: object",Venda,10.609609603881836,859.760357219041,9121.721742988015,9121.721742988015
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-17
+Data    2023-08-17_BEEF3.SA_Janela_1
+Name: 227, dtype: object",Compra,10.600000381469728,860.5397561054856,9121.721742988015,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-22
+Data    2023-08-22_BEEF3.SA_Janela_1
+Name: 232, dtype: object",Venda,11.199999809265137,860.5397561054856,9638.045104246507,9638.045104246507
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-23
+Data    2023-08-23_BEEF3.SA_Janela_1
+Name: 233, dtype: object",Compra,10.960000038146973,879.3836743340038,9638.045104246507,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-24
+Data    2023-08-24_BEEF3.SA_Janela_1
+Name: 234, dtype: object",Venda,10.720000267028809,879.3836743340038,9426.993223681295,9426.993223681295
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-29
+Data    2023-08-29_BEEF3.SA_Janela_1
+Name: 239, dtype: object",Compra,8.90999984741211,1058.02394894758,9426.993223681295,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-30
+Data    2023-08-30_BEEF3.SA_Janela_1
+Name: 240, dtype: object",Venda,8.600000381469727,1058.02394894758,9099.006364553295,9099.006364553295
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-02
+Data    2023-09-02_BEEF3.SA_Janela_1
+Name: 243, dtype: object",Compra,8.5600004196167,1062.9679811348342,9099.006364553295,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-07
+Data    2023-09-07_BEEF3.SA_Janela_1
+Name: 248, dtype: object",Venda,8.729999542236328,1062.9679811348342,9279.709988718976,9279.709988718976
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-13
+Data    2023-09-13_BEEF3.SA_Janela_1
+Name: 254, dtype: object",Compra,8.710000038146973,1065.4087196414305,9279.709988718976,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-15
+Data    2023-09-15_BEEF3.SA_Janela_1
+Name: 256, dtype: object",Venda,8.579999923706055,1065.4087196414305,9141.206733239238,9141.206733239238
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-19
+Data    2023-09-19_BEEF3.SA_Janela_1
+Name: 260, dtype: object",Compra,8.619999885559082,1060.4648323201632,9141.206733239238,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-20
+Data    2023-09-20_BEEF3.SA_Janela_1
+Name: 261, dtype: object",Venda,8.579999923706055,1060.4648323201632,9098.788180399953,9098.788180399953
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-28
+Data    2023-09-28_BEEF3.SA_Janela_1
+Name: 269, dtype: object",Compra,8.149999618530273,1116.4157799115062,9098.788180399953,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-30
+Data    2023-09-30_BEEF3.SA_Janela_1
+Name: 271, dtype: object",Venda,8.09000015258789,1116.4157799115062,9031.803829835615,9031.803829835615
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-03
+Data    2023-10-03_BEEF3.SA_Janela_1
+Name: 274, dtype: object",Compra,8.130000114440918,1110.9229646618169,9031.803829835615,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-04
+Data    2023-10-04_BEEF3.SA_Janela_1
+Name: 275, dtype: object",Venda,8.149999618530273,1110.9229646618169,9054.021738210327,9054.021738210327
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-05
+Data    2023-10-05_BEEF3.SA_Janela_1
+Name: 276, dtype: object",Compra,8.069999694824219,1121.935821635436,9054.021738210327,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-06
+Data    2023-10-06_BEEF3.SA_Janela_1
+Name: 277, dtype: object",Venda,8.130000114440918,1121.935821635436,9121.33835829146,9121.33835829146
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-07
+Data    2023-10-07_BEEF3.SA_Janela_1
+Name: 278, dtype: object",Compra,8.130000114440918,1121.935821635436,9121.33835829146,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-10
+Data    2023-10-10_BEEF3.SA_Janela_1
+Name: 281, dtype: object",Venda,8.15999984741211,1121.935821635436,9154.996133351337,9154.996133351337
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-11
+Data    2023-10-11_BEEF3.SA_Janela_1
+Name: 282, dtype: object",Compra,8.130000114440918,1126.0757693090027,9154.996133351337,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-12
+Data    2023-10-12_BEEF3.SA_Janela_1
+Name: 283, dtype: object",Venda,8.130000114440918,1126.0757693090027,9154.996133351337,9154.996133351337
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-25
+Data    2023-10-25_BEEF3.SA_Janela_1
+Name: 296, dtype: object",Compra,7.369999885559081,1242.1975950487883,9154.996133351337,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-26
+Data    2023-10-26_BEEF3.SA_Janela_1
+Name: 297, dtype: object",Venda,7.599999904632569,1242.1975950487883,9440.701603905598,9440.701603905598
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-27
+Data    2023-10-27_BEEF3.SA_Janela_1
+Name: 298, dtype: object",Compra,7.610000133514404,1240.5652349897857,9440.701603905598,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-31
+Data    2023-10-31_BEEF3.SA_Janela_1
+Name: 302, dtype: object",Venda,7.570000171661377,1240.5652349897857,9391.079041829815,9391.079041829815
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-01
+Data    2023-11-01_BEEF3.SA_Janela_1
+Name: 303, dtype: object",Compra,7.599999904632569,1235.668310483201,9391.079041829815,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-09
+Data    2023-11-09_BEEF3.SA_Janela_1
+Name: 311, dtype: object",Venda,6.820000171661377,1235.668310483201,8427.258089611954,8427.258089611954
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-11
+Data    2023-11-11_BEEF3.SA_Janela_1
+Name: 313, dtype: object",Compra,6.840000152587891,1232.0552487741584,8427.258089611954,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-18
+Data    2023-11-18_BEEF3.SA_Janela_1
+Name: 320, dtype: object",Venda,7.130000114440918,1232.0552487741584,8784.554064757283,8784.554064757283
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-23
+Data    2023-11-23_BEEF3.SA_Janela_1
+Name: 325, dtype: object",Compra,7.099999904632568,1237.2611525002396,8784.554064757283,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-25
+Data    2023-11-25_BEEF3.SA_Janela_1
+Name: 327, dtype: object",Venda,7.030000209808351,1237.2611525002396,8697.946161664408,8697.946161664408
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-29
+Data    2023-11-29_BEEF3.SA_Janela_1
+Name: 331, dtype: object",Compra,7.280000209808349,1194.7727899713052,8697.946161664408,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-01
+Data    2023-12-01_BEEF3.SA_Janela_1
+Name: 333, dtype: object",Venda,7.46999979019165,1194.7727899713052,8924.952490412343,8924.952490412343
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-02
+Data    2023-12-02_BEEF3.SA_Janela_1
+Name: 334, dtype: object",Compra,7.46999979019165,1194.7727899713052,8924.952490412343,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-05
+Data    2023-12-05_BEEF3.SA_Janela_1
+Name: 337, dtype: object",Venda,7.460000038146973,1194.7727899713052,8913.005058762901,8913.005058762901
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-06
+Data    2023-12-06_BEEF3.SA_Janela_1
+Name: 338, dtype: object",Compra,7.340000152587891,1214.305841072825,8913.005058762901,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-07
+Data    2023-12-07_BEEF3.SA_Janela_1
+Name: 339, dtype: object",Venda,7.210000038146972,1214.305841072825,8755.145160457158,8755.145160457158
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-09
+Data    2023-12-09_BEEF3.SA_Janela_1
+Name: 341, dtype: object",Compra,7.269999980926514,1204.2840692471875,8755.145160457158,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-12
+Data    2023-12-12_BEEF3.SA_Janela_1
+Name: 344, dtype: object",Venda,7.289999961853027,1204.2840692471875,8779.230818872205,8779.230818872205
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-13
+Data    2023-12-13_BEEF3.SA_Janela_1
+Name: 345, dtype: object",Compra,7.400000095367432,1186.3825278013446,8779.230818872205,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-15
+Data    2023-12-15_BEEF3.SA_Janela_1
+Name: 347, dtype: object",Venda,7.25,1186.3825278013446,8601.273326559749,8601.273326559749
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-17
+Data    2023-12-17_BEEF3.SA_Janela_1
+Name: 349, dtype: object",Compra,7.25,1186.3825278013446,8601.273326559749,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-21
+Data    2023-12-21_BEEF3.SA_Janela_1
+Name: 353, dtype: object",Venda,7.389999866485596,1186.3825278013446,8767.36672205278,8767.36672205278
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-22
+Data    2023-12-22_BEEF3.SA_Janela_1
+Name: 354, dtype: object",Compra,7.380000114440918,1187.990052316817,8767.36672205278,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-23
+Data    2023-12-23_BEEF3.SA_Janela_1
+Name: 355, dtype: object",Venda,7.380000114440918,1187.990052316817,8767.36672205278,8767.36672205278
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-27
+Data    2023-12-27_BEEF3.SA_Janela_1
+Name: 359, dtype: object",Compra,7.510000228881837,1167.4256264780638,8767.36672205278,0.0
+BEEF3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-29
+Data    2023-12-29_BEEF3.SA_Janela_1
+Name: 361, dtype: object",Venda,7.46999979019165,1167.4256264780638,8720.669184855493,8720.669184855493
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-01-04
+Data    2023-01-04_VALE3.SA_Janela_3
+Name: 0, dtype: object",Compra,74.0680160522461,135.01104164780384,10000.0,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-01-17
+Data    2023-01-17_VALE3.SA_Janela_3
+Name: 13, dtype: object",Venda,76.32981872558594,135.01104164780384,10305.3683349294,10305.3683349294
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-01-19
+Data    2023-01-19_VALE3.SA_Janela_3
+Name: 15, dtype: object",Compra,77.66371154785156,132.69219471412814,10305.3683349294,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-01-28
+Data    2023-01-28_VALE3.SA_Janela_3
+Name: 24, dtype: object",Venda,78.97274780273438,132.69219471412814,10479.067228550164,10479.067228550164
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-02-09
+Data    2023-02-09_VALE3.SA_Janela_3
+Name: 36, dtype: object",Compra,73.23123931884766,143.09558770300842,10479.067228550164,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-02-11
+Data    2023-02-11_VALE3.SA_Janela_3
+Name: 38, dtype: object",Venda,71.91392517089844,143.09558770300842,10290.565386359882,10290.565386359882
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-02-15
+Data    2023-02-15_VALE3.SA_Janela_3
+Name: 42, dtype: object",Compra,73.73661804199219,139.5584128973683,10290.565386359882,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-02-18
+Data    2023-02-18_VALE3.SA_Janela_3
+Name: 45, dtype: object",Venda,72.93296813964844,139.5584128973683,10178.409281463664,10178.409281463664
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-03-01
+Data    2023-03-01_VALE3.SA_Janela_3
+Name: 56, dtype: object",Compra,73.90231323242188,137.72788477476598,10178.409281463664,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-03-07
+Data    2023-03-07_VALE3.SA_Janela_3
+Name: 62, dtype: object",Venda,70.6960220336914,137.72788477476598,9736.813576690567,9736.813576690567
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-03-14
+Data    2023-03-14_VALE3.SA_Janela_3
+Name: 69, dtype: object",Compra,71.10554504394531,136.93465918407531,9736.813576690567,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-03-16
+Data    2023-03-16_VALE3.SA_Janela_3
+Name: 71, dtype: object",Venda,69.21739959716797,136.93465918407531,9478.261023446148,9478.261023446148
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-03-19
+Data    2023-03-19_VALE3.SA_Janela_3
+Name: 74, dtype: object",Compra,70.04717254638672,135.31254266072543,9478.261023446148,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-03-22
+Data    2023-03-22_VALE3.SA_Janela_3
+Name: 77, dtype: object",Venda,69.15813446044922,135.31254266072543,9357.96301951572,9357.96301951572
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-03-29
+Data    2023-03-29_VALE3.SA_Janela_3
+Name: 84, dtype: object",Compra,68.16751098632812,137.27893074154608,9357.96301951572,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-04-02
+Data    2023-04-02_VALE3.SA_Janela_3
+Name: 88, dtype: object",Venda,67.9812240600586,137.27893074154608,9332.389749466309,9332.389749466309
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-04-04
+Data    2023-04-04_VALE3.SA_Janela_3
+Name: 90, dtype: object",Compra,66.07615661621094,141.23687313824072,9332.389749466309,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-04-05
+Data    2023-04-05_VALE3.SA_Janela_3
+Name: 91, dtype: object",Venda,65.10246276855469,141.23687313824072,9194.8682750294,9194.8682750294
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-04-11
+Data    2023-04-11_VALE3.SA_Janela_3
+Name: 97, dtype: object",Compra,69.73387908935547,131.85654369302037,9194.8682750294,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-04-14
+Data    2023-04-14_VALE3.SA_Janela_3
+Name: 100, dtype: object",Venda,66.72811126708984,131.85654369302037,8798.538118841758,8798.538118841758
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-04-28
+Data    2023-04-28_VALE3.SA_Janela_3
+Name: 114, dtype: object",Compra,61.30079650878906,143.53056762615245,8798.538118841758,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-05-03
+Data    2023-05-03_VALE3.SA_Janela_3
+Name: 119, dtype: object",Venda,58.42202377319335,143.53056762615245,8385.346234035014,8385.346234035014
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-05-06
+Data    2023-05-06_VALE3.SA_Janela_3
+Name: 122, dtype: object",Compra,58.45589828491211,143.447393335145,8385.346234035014,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-05-11
+Data    2023-05-11_VALE3.SA_Janela_3
+Name: 127, dtype: object",Venda,57.58380126953124,143.447393335145,8260.24619044327,8260.24619044327
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-05-15
+Data    2023-05-15_VALE3.SA_Janela_3
+Name: 131, dtype: object",Compra,58.47282409667968,141.26641423690563,8260.24619044327,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-05-17
+Data    2023-05-17_VALE3.SA_Janela_3
+Name: 133, dtype: object",Venda,59.16711425781249,141.26641423690563,8358.326071946465,8358.326071946465
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-05-18
+Data    2023-05-18_VALE3.SA_Janela_3
+Name: 134, dtype: object",Compra,59.25178909301758,141.06453492610973,8358.326071946465,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-05-21
+Data    2023-05-21_VALE3.SA_Janela_3
+Name: 137, dtype: object",Venda,58.599834442138665,141.06453492610973,8266.358392327318,8266.358392327318
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-05-27
+Data    2023-05-27_VALE3.SA_Janela_3
+Name: 143, dtype: object",Compra,56.16135025024414,147.18945245251442,8266.358392327318,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-05-30
+Data    2023-05-30_VALE3.SA_Janela_3
+Name: 146, dtype: object",Venda,54.42562103271485,147.18945245251442,8010.877359193351,8010.877359193351
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-06-02
+Data    2023-06-02_VALE3.SA_Janela_3
+Name: 149, dtype: object",Compra,57.52452850341797,139.26020025904887,8010.877359193351,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-06-06
+Data    2023-06-06_VALE3.SA_Janela_3
+Name: 153, dtype: object",Venda,57.23665237426757,139.26020025904887,7970.787671798067,7970.787671798067
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-06-08
+Data    2023-06-08_VALE3.SA_Janela_3
+Name: 155, dtype: object",Compra,58.142616271972656,137.0902821867055,7970.787671798067,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-06-11
+Data    2023-06-11_VALE3.SA_Janela_3
+Name: 158, dtype: object",Venda,57.88014602661132,137.0902821867055,7934.805551795867,7934.805551795867
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-06-15
+Data    2023-06-15_VALE3.SA_Janela_3
+Name: 162, dtype: object",Compra,58.89617538452149,134.72531110876199,7934.805551795867,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-06-20
+Data    2023-06-20_VALE3.SA_Janela_3
+Name: 167, dtype: object",Venda,57.24511718749999,134.72531110876199,7712.366222543475,7712.366222543475
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-06-27
+Data    2023-06-27_VALE3.SA_Janela_3
+Name: 174, dtype: object",Compra,56.58469772338867,136.29773654080424,7712.366222543475,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-06-29
+Data    2023-06-29_VALE3.SA_Janela_3
+Name: 176, dtype: object",Venda,55.46706008911133,136.29773654080424,7560.034742718653,7560.034742718653
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-07-04
+Data    2023-07-04_VALE3.SA_Janela_3
+Name: 181, dtype: object",Compra,55.79727172851562,135.49111826654135,7560.034742718653,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-07-07
+Data    2023-07-07_VALE3.SA_Janela_3
+Name: 184, dtype: object",Venda,55.42472076416016,135.49111826654135,7509.557395946855,7509.557395946855
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-07-09
+Data    2023-07-09_VALE3.SA_Janela_3
+Name: 186, dtype: object",Compra,55.42472076416016,135.49111826654135,7509.557395946855,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-07-11
+Data    2023-07-11_VALE3.SA_Janela_3
+Name: 188, dtype: object",Venda,56.3730239868164,135.49111826654135,7638.044060040313,7638.044060040313
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-07-12
+Data    2023-07-12_VALE3.SA_Janela_3
+Name: 189, dtype: object",Compra,56.77096939086913,134.54137109148593,7638.044060040313,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-07-18
+Data    2023-07-18_VALE3.SA_Janela_3
+Name: 195, dtype: object",Venda,57.08424377441406,134.54137109148593,7680.192425130288,7680.192425130288
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-07-22
+Data    2023-07-22_VALE3.SA_Janela_3
+Name: 199, dtype: object",Compra,57.4059944152832,133.78729004449733,7680.192425130288,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-07-28
+Data    2023-07-28_VALE3.SA_Janela_3
+Name: 205, dtype: object",Venda,57.26205825805663,133.78729004449733,7660.935596715526,7660.935596715526
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-08-01
+Data    2023-08-01_VALE3.SA_Janela_3
+Name: 209, dtype: object",Compra,57.74466323852539,132.66915359901856,7660.935596715526,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-08-03
+Data    2023-08-03_VALE3.SA_Janela_3
+Name: 211, dtype: object",Venda,57.160449981689446,132.66915359901856,7583.428518409774,7583.428518409774
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-08-06
+Data    2023-08-06_VALE3.SA_Janela_3
+Name: 214, dtype: object",Compra,57.20278549194336,132.57096578763372,7583.428518409774,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-08-09
+Data    2023-08-09_VALE3.SA_Janela_3
+Name: 217, dtype: object",Venda,56.60162734985352,132.57096578763372,7503.732402921824,7503.732402921824
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-08-18
+Data    2023-08-18_VALE3.SA_Janela_3
+Name: 226, dtype: object",Compra,53.39851760864257,140.52323433239545,7503.732402921824,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-08-19
+Data    2023-08-19_VALE3.SA_Janela_3
+Name: 227, dtype: object",Venda,53.39851760864257,140.52323433239545,7503.732402921824,7503.732402921824
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-08-22
+Data    2023-08-22_VALE3.SA_Janela_3
+Name: 230, dtype: object",Compra,54.58476638793945,137.46935087331948,7503.732402921824,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-08-26
+Data    2023-08-26_VALE3.SA_Janela_3
+Name: 234, dtype: object",Venda,54.13991928100585,137.46935087331948,7442.579559893788,7442.579559893788
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-08-29
+Data    2023-08-29_VALE3.SA_Janela_3
+Name: 237, dtype: object",Compra,56.66941833496094,131.33326189978297,7442.579559893788,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-09-07
+Data    2023-09-07_VALE3.SA_Janela_3
+Name: 246, dtype: object",Venda,59.3035774230957,131.33326189978297,7788.532265301485,7788.532265301485
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-09-12
+Data    2023-09-12_VALE3.SA_Janela_3
+Name: 251, dtype: object",Compra,58.98085403442383,132.05187332071785,7788.532265301485,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-09-18
+Data    2023-09-18_VALE3.SA_Janela_3
+Name: 257, dtype: object",Venda,59.94031524658203,132.05187332071785,7915.230915745543,7915.230915745543
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-09-21
+Data    2023-09-21_VALE3.SA_Janela_3
+Name: 260, dtype: object",Compra,58.87619018554688,134.43857170107108,7915.230915745543,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-09-22
+Data    2023-09-22_VALE3.SA_Janela_3
+Name: 261, dtype: object",Venda,59.312305450439446,134.43857170107108,7973.8616290547325,7973.8616290547325
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-09-25
+Data    2023-09-25_VALE3.SA_Janela_3
+Name: 264, dtype: object",Compra,58.09116744995117,137.26461317763437,7973.8616290547325,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-09-26
+Data    2023-09-26_VALE3.SA_Janela_3
+Name: 265, dtype: object",Venda,57.18403244018555,137.26461317763437,7849.344092839365,7849.344092839365
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-09-29
+Data    2023-09-29_VALE3.SA_Janela_3
+Name: 268, dtype: object",Compra,58.945964813232415,133.1616866007648,7849.344092839365,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-10-03
+Data    2023-10-03_VALE3.SA_Janela_3
+Name: 272, dtype: object",Venda,58.07372283935546,133.1616866007648,7733.194880473929,7733.194880473929
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-10-07
+Data    2023-10-07_VALE3.SA_Janela_3
+Name: 276, dtype: object",Compra,58.31795501708983,132.60401326157182,7733.194880473929,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-10-10
+Data    2023-10-10_VALE3.SA_Janela_3
+Name: 279, dtype: object",Venda,58.24817276000976,132.60401326157182,7723.941473130661,7723.941473130661
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-10-11
+Data    2023-10-11_VALE3.SA_Janela_3
+Name: 280, dtype: object",Compra,58.754070281982415,131.46223633631885,7723.941473130661,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-10-14
+Data    2023-10-14_VALE3.SA_Janela_3
+Name: 283, dtype: object",Venda,58.082447052001946,131.46223633631885,7635.648381342006,7635.648381342006
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-10-17
+Data    2023-10-17_VALE3.SA_Janela_3
+Name: 286, dtype: object",Compra,59.18146514892578,129.02094198120074,7635.648381342006,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-10-19
+Data    2023-10-19_VALE3.SA_Janela_3
+Name: 288, dtype: object",Venda,56.18968200683594,129.02094198120074,7249.645702146098,7249.645702146098
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-10-25
+Data    2023-10-25_VALE3.SA_Janela_3
+Name: 294, dtype: object",Compra,55.76228332519531,130.00984303077237,7249.645702146098,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-11-08
+Data    2023-11-08_VALE3.SA_Janela_3
+Name: 308, dtype: object",Venda,61.17017364501953,130.00984303077237,7952.724673754078,7952.724673754078
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-11-11
+Data    2023-11-11_VALE3.SA_Janela_3
+Name: 311, dtype: object",Compra,62.40875625610353,127.42962928341177,7952.724673754078,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-11-14
+Data    2023-11-14_VALE3.SA_Janela_3
+Name: 314, dtype: object",Venda,64.20557403564453,127.42962928341177,8181.692497290831,8181.692497290831
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-11-15
+Data    2023-11-15_VALE3.SA_Janela_3
+Name: 315, dtype: object",Compra,64.20557403564453,127.42962928341177,8181.692497290831,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-11-24
+Data    2023-11-24_VALE3.SA_Janela_3
+Name: 324, dtype: object",Venda,64.96631622314453,127.42962928341177,8278.633592224207,8278.633592224207
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-12-01
+Data    2023-12-01_VALE3.SA_Janela_3
+Name: 331, dtype: object",Compra,66.26123046875,124.93932777370564,8278.633592224207,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-12-05
+Data    2023-12-05_VALE3.SA_Janela_3
+Name: 335, dtype: object",Venda,64.17350006103516,124.93932777370564,8017.79395851159,8017.79395851159
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-12-09
+Data    2023-12-09_VALE3.SA_Janela_3
+Name: 339, dtype: object",Compra,64.12945556640625,125.02513685320686,8017.79395851159,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-12-25
+Data    2023-12-25_VALE3.SA_Janela_3
+Name: 355, dtype: object",Venda,67.29187774658203,125.02513685320686,8413.176224375684,8413.176224375684
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-12-27
+Data    2023-12-27_VALE3.SA_Janela_3
+Name: 357, dtype: object",Compra,68.18159484863281,123.39365547334928,8413.176224375684,0.0
+VALE3.SA,Janela_3,Direção Previsão,True,"Data                      2023-12-31
+Data    2023-12-31_VALE3.SA_Janela_3
+Name: 361, dtype: object",Venda Final,68.00540924072266,123.39365547334928,8391.436038173855,8391.436038173855
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-01-06
+Data    2023-01-06_BRFS3.SA_Janela_4
+Name: 1, dtype: object",Compra,8.407326698303223,1189.438731103219,10000.0,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-01-12
+Data    2023-01-12_BRFS3.SA_Janela_4
+Name: 7, dtype: object",Venda,8.329482078552246,1189.438731103219,9907.408594260187,9907.408594260187
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-01-19
+Data    2023-01-19_BRFS3.SA_Janela_4
+Name: 14, dtype: object",Compra,7.512102127075195,1318.8596782452948,9907.408594260187,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-01-20
+Data    2023-01-20_BRFS3.SA_Janela_4
+Name: 15, dtype: object",Venda,7.687254905700683,1318.8596782452948,10138.410531521968,10138.410531521968
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-01-21
+Data    2023-01-21_BRFS3.SA_Janela_4
+Name: 16, dtype: object",Compra,7.687254905700683,1318.859678245295,10138.410531521968,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-01-24
+Data    2023-01-24_BRFS3.SA_Janela_4
+Name: 19, dtype: object",Venda,7.804023265838623,1318.859678245295,10292.411613402723,10292.411613402723
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-01-25
+Data    2023-01-25_BRFS3.SA_Janela_4
+Name: 20, dtype: object",Compra,7.92079210281372,1299.4169623195296,10292.411613402723,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-01-28
+Data    2023-01-28_BRFS3.SA_Janela_4
+Name: 23, dtype: object",Venda,7.560755729675293,1299.4169623195296,9824.574243094648,9824.574243094648
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-02-01
+Data    2023-02-01_BRFS3.SA_Janela_4
+Name: 27, dtype: object",Compra,8.339211463928223,1178.1178934712777,9824.574243094648,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-02-03
+Data    2023-02-03_BRFS3.SA_Janela_4
+Name: 29, dtype: object",Venda,7.521832942962647,1178.1178934712777,8861.605981806015,8861.605981806015
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-02-14
+Data    2023-02-14_BRFS3.SA_Janela_4
+Name: 40, dtype: object",Compra,6.286033630371094,1409.7293305894823,8861.605981806015,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-02-15
+Data    2023-02-15_BRFS3.SA_Janela_4
+Name: 41, dtype: object",Venda,6.529301166534424,1409.7293305894823,9204.547362715699,9204.547362715699
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-02-16
+Data    2023-02-16_BRFS3.SA_Janela_4
+Name: 42, dtype: object",Compra,6.587685108184815,1397.235479771124,9204.547362715699,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-02-23
+Data    2023-02-23_BRFS3.SA_Janela_4
+Name: 49, dtype: object",Venda,6.32495641708374,1397.235479771124,8837.453513955448,8837.453513955448
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-02-27
+Data    2023-02-27_BRFS3.SA_Janela_4
+Name: 53, dtype: object",Compra,6.295763969421387,1403.7142365690777,8837.453513955448,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-03-01
+Data    2023-03-01_BRFS3.SA_Janela_4
+Name: 55, dtype: object",Venda,6.315225124359131,1403.7142365690777,8864.771414201636,8864.771414201636
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-03-02
+Data    2023-03-02_BRFS3.SA_Janela_4
+Name: 56, dtype: object",Compra,6.558493137359619,1351.647585587091,8864.771414201636,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-03-11
+Data    2023-03-11_BRFS3.SA_Janela_4
+Name: 65, dtype: object",Venda,6.412532806396484,1351.647585587091,8667.484485263822,8667.484485263822
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-03-15
+Data    2023-03-15_BRFS3.SA_Janela_4
+Name: 69, dtype: object",Compra,6.5098395347595215,1331.4436460351253,8667.484485263822,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-03-21
+Data    2023-03-21_BRFS3.SA_Janela_4
+Name: 75, dtype: object",Venda,6.412532806396484,1331.4436460351253,8537.92606006839,8537.92606006839
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-03-26
+Data    2023-03-26_BRFS3.SA_Janela_4
+Name: 80, dtype: object",Compra,6.01357364654541,1419.775754300961,8537.92606006839,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-04-01
+Data    2023-04-01_BRFS3.SA_Janela_4
+Name: 86, dtype: object",Venda,6.042766094207764,1419.775754300961,8579.3727894681,8579.3727894681
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-04-06
+Data    2023-04-06_BRFS3.SA_Janela_4
+Name: 91, dtype: object",Compra,5.974650859832764,1435.9621994226864,8579.3727894681,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-04-09
+Data    2023-04-09_BRFS3.SA_Janela_4
+Name: 94, dtype: object",Venda,5.974650859832764,1435.9621994226864,8579.3727894681,8579.3727894681
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-04-11
+Data    2023-04-11_BRFS3.SA_Janela_4
+Name: 96, dtype: object",Compra,6.5779547691345215,1304.2614445640083,8579.3727894681,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-04-14
+Data    2023-04-14_BRFS3.SA_Janela_4
+Name: 99, dtype: object",Venda,6.003843307495117,1304.2614445640083,7830.581345169535,7830.581345169535
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-04-18
+Data    2023-04-18_BRFS3.SA_Janela_4
+Name: 103, dtype: object",Compra,5.857882976531982,1336.7596069331928,7830.581345169535,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-04-19
+Data    2023-04-19_BRFS3.SA_Janela_4
+Name: 104, dtype: object",Venda,5.83842134475708,1336.7596069331928,7804.5658219278375,7804.5658219278375
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-04-25
+Data    2023-04-25_BRFS3.SA_Janela_4
+Name: 110, dtype: object",Compra,5.750844955444336,1357.1163685328083,7804.5658219278375,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-04-26
+Data    2023-04-26_BRFS3.SA_Janela_4
+Name: 111, dtype: object",Venda,5.750844955444336,1357.1163685328083,7804.5658219278375,7804.5658219278375
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-04-29
+Data    2023-04-29_BRFS3.SA_Janela_4
+Name: 114, dtype: object",Compra,6.169265270233154,1265.0721731135548,7804.5658219278375,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-05-03
+Data    2023-05-03_BRFS3.SA_Janela_4
+Name: 118, dtype: object",Venda,6.14980411529541,1265.0721731135548,7779.946056359447,7779.946056359447
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-05-04
+Data    2023-05-04_BRFS3.SA_Janela_4
+Name: 119, dtype: object",Compra,6.247110843658447,1245.367058639116,7779.946056359447,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-05-16
+Data    2023-05-16_BRFS3.SA_Janela_4
+Name: 131, dtype: object",Venda,6.461185932159424,1245.367058639116,8046.548119653817,8046.548119653817
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-05-19
+Data    2023-05-19_BRFS3.SA_Janela_4
+Name: 134, dtype: object",Compra,7.969444751739501,1009.6748732585776,8046.548119653817,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-05-24
+Data    2023-05-24_BRFS3.SA_Janela_4
+Name: 139, dtype: object",Venda,7.1228742599487305,1009.6748732585776,7191.787165650519,7191.787165650519
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-05-28
+Data    2023-05-28_BRFS3.SA_Janela_4
+Name: 143, dtype: object",Compra,7.395333290100098,972.4764095862914,7191.787165650519,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-05-30
+Data    2023-05-30_BRFS3.SA_Janela_4
+Name: 145, dtype: object",Venda,7.074220657348633,972.4764095862914,6879.512705479573,6879.512705479573
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-06-01
+Data    2023-06-01_BRFS3.SA_Janela_4
+Name: 147, dtype: object",Compra,8.241905212402344,834.6993235407931,6879.512705479573,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-06-14
+Data    2023-06-14_BRFS3.SA_Janela_4
+Name: 160, dtype: object",Venda,8.8938627243042,834.6993235407931,7423.70119964139,7423.70119964139
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-06-15
+Data    2023-06-15_BRFS3.SA_Janela_4
+Name: 161, dtype: object",Compra,9.059284210205078,819.4578100639297,7423.70119964139,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-06-19
+Data    2023-06-19_BRFS3.SA_Janela_4
+Name: 165, dtype: object",Venda,9.000899314880371,819.4578100639297,7375.857241177794,7375.857241177794
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-06-20
+Data    2023-06-20_BRFS3.SA_Janela_4
+Name: 166, dtype: object",Compra,9.438780784606934,781.4417359079447,7375.857241177794,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-06-23
+Data    2023-06-23_BRFS3.SA_Janela_4
+Name: 169, dtype: object",Venda,9.244166374206545,781.4417359079447,7223.777418481814,7223.777418481814
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-06-24
+Data    2023-06-24_BRFS3.SA_Janela_4
+Name: 170, dtype: object",Compra,9.244166374206545,781.4417359079447,7223.777418481814,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-06-27
+Data    2023-06-27_BRFS3.SA_Janela_4
+Name: 173, dtype: object",Venda,8.436518669128418,781.4417359079447,6592.647793823494,6592.647793823494
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-07-01
+Data    2023-07-01_BRFS3.SA_Janela_4
+Name: 177, dtype: object",Compra,8.670055389404297,760.3928115477082,6592.647793823494,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-07-11
+Data    2023-07-11_BRFS3.SA_Janela_4
+Name: 187, dtype: object",Venda,9.438780784606934,760.3928115477082,7177.1810583897495,7177.1810583897495
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-07-22
+Data    2023-07-22_BRFS3.SA_Janela_4
+Name: 198, dtype: object",Compra,8.543556213378906,840.0695072563037,7177.1810583897495,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-07-25
+Data    2023-07-25_BRFS3.SA_Janela_4
+Name: 201, dtype: object",Venda,8.16405963897705,840.0695072563037,6858.377558126528,6858.377558126528
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-07-28
+Data    2023-07-28_BRFS3.SA_Janela_4
+Name: 204, dtype: object",Compra,8.942514419555664,766.9406205405154,6858.377558126528,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-08-08
+Data    2023-08-08_BRFS3.SA_Janela_4
+Name: 215, dtype: object",Venda,9.584742546081545,766.9406205405154,7350.92839601286,7350.92839601286
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-08-12
+Data    2023-08-12_BRFS3.SA_Janela_4
+Name: 219, dtype: object",Compra,9.682048797607422,759.2327357231853,7350.92839601286,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-08-15
+Data    2023-08-15_BRFS3.SA_Janela_4
+Name: 222, dtype: object",Venda,10.246429443359377,759.2327357231853,7779.424657676334,7779.424657676334
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-08-16
+Data    2023-08-16_BRFS3.SA_Janela_4
+Name: 223, dtype: object",Compra,10.022623062133787,776.1864942389759,7779.424657676334,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-08-18
+Data    2023-08-18_BRFS3.SA_Janela_4
+Name: 225, dtype: object",Venda,9.925315856933594,776.1864942389759,7703.896119207803,7703.896119207803
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-08-21
+Data    2023-08-21_BRFS3.SA_Janela_4
+Name: 228, dtype: object",Compra,9.66258716583252,797.2912416717166,7703.896119207803,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-08-22
+Data    2023-08-22_BRFS3.SA_Janela_4
+Name: 229, dtype: object",Venda,9.682048797607422,797.2912416717166,7719.4127077705725,7719.4127077705725
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-08-29
+Data    2023-08-29_BRFS3.SA_Janela_4
+Name: 236, dtype: object",Compra,9.36093521118164,824.6411852685115,7719.4127077705725,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-08-31
+Data    2023-08-31_BRFS3.SA_Janela_4
+Name: 238, dtype: object",Venda,8.796554565429688,824.6411852685115,7254.001183115074,7254.001183115074
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-09-05
+Data    2023-09-05_BRFS3.SA_Janela_4
+Name: 243, dtype: object",Compra,9.127398490905762,794.7501350294633,7254.001183115074,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-09-07
+Data    2023-09-07_BRFS3.SA_Janela_4
+Name: 245, dtype: object",Venda,8.796554565429688,794.7501350294633,6991.0629286692865,6991.0629286692865
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-09-13
+Data    2023-09-13_BRFS3.SA_Janela_4
+Name: 251, dtype: object",Compra,9.000899314880371,776.7071582626855,6991.0629286692865,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-09-16
+Data    2023-09-16_BRFS3.SA_Janela_4
+Name: 254, dtype: object",Venda,8.718708992004395,776.7071582626855,6771.883684899057,6771.883684899057
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-09-19
+Data    2023-09-19_BRFS3.SA_Janela_4
+Name: 257, dtype: object",Compra,9.214975357055664,734.878111173027,6771.883684899057,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-10-14
+Data    2023-10-14_BRFS3.SA_Janela_4
+Name: 282, dtype: object",Venda,10.557812690734863,734.878111173027,7758.70544828585,7758.70544828585
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-10-21
+Data    2023-10-21_BRFS3.SA_Janela_4
+Name: 289, dtype: object",Compra,10.499427795410156,738.964598782953,7758.70544828585,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-10-27
+Data    2023-10-27_BRFS3.SA_Janela_4
+Name: 295, dtype: object",Venda,10.236699104309082,738.964598782953,7564.558246477575,7564.558246477575
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-11-01
+Data    2023-11-01_BRFS3.SA_Janela_4
+Name: 300, dtype: object",Compra,10.840002059936523,697.837344001563,7564.558246477575,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-11-09
+Data    2023-11-09_BRFS3.SA_Janela_4
+Name: 308, dtype: object",Venda,11.268153190612791,697.837344001563,7863.338094339968,7863.338094339968
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-11-11
+Data    2023-11-11_BRFS3.SA_Janela_4
+Name: 310, dtype: object",Compra,11.822802543640137,665.09933370831,7863.338094339968,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-11-22
+Data    2023-11-22_BRFS3.SA_Janela_4
+Name: 321, dtype: object",Venda,13.827327728271484,665.09933370831,9196.546459039804,9196.546459039804
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-11-28
+Data    2023-11-28_BRFS3.SA_Janela_4
+Name: 327, dtype: object",Compra,14.450093269348146,636.4350933670248,9196.546459039804,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-12-01
+Data    2023-12-01_BRFS3.SA_Janela_4
+Name: 330, dtype: object",Venda,14.771205902099608,636.4350933670248,9400.913807446312,9400.913807446312
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-12-02
+Data    2023-12-02_BRFS3.SA_Janela_4
+Name: 331, dtype: object",Compra,14.771205902099608,636.4350933670248,9400.913807446312,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-12-06
+Data    2023-12-06_BRFS3.SA_Janela_4
+Name: 335, dtype: object",Venda,13.50621509552002,636.4350933670248,8595.829265352404,8595.829265352404
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-12-11
+Data    2023-12-11_BRFS3.SA_Janela_4
+Name: 340, dtype: object",Compra,13.447830200195312,639.1982303009419,8595.829265352404,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-12-13
+Data    2023-12-13_BRFS3.SA_Janela_4
+Name: 342, dtype: object",Venda,13.691097259521484,639.1982303009419,8751.325139164208,8751.325139164208
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-12-14
+Data    2023-12-14_BRFS3.SA_Janela_4
+Name: 343, dtype: object",Compra,13.43809986114502,651.2323341537167,8751.325139164208,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-12-15
+Data    2023-12-15_BRFS3.SA_Janela_4
+Name: 344, dtype: object",Venda,13.224024772644045,651.2323341537167,8611.912519595555,8611.912519595555
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-12-19
+Data    2023-12-19_BRFS3.SA_Janela_4
+Name: 348, dtype: object",Compra,13.85651969909668,621.5061723007527,8611.912519595555,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-12-22
+Data    2023-12-22_BRFS3.SA_Janela_4
+Name: 351, dtype: object",Venda,13.428369522094728,621.5061723007527,8345.814541917183,8345.814541917183
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-12-28
+Data    2023-12-28_BRFS3.SA_Janela_4
+Name: 357, dtype: object",Compra,13.43809986114502,621.0561484252925,8345.814541917183,0.0
+BRFS3.SA,Janela_4,Direção Previsão,True,"Data                      2023-12-31
+Data    2023-12-31_BRFS3.SA_Janela_4
+Name: 360, dtype: object",Venda Final,13.43809986114502,621.0561484252925,8345.814541917183,8345.814541917183
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-03
+Data    2023-01-03_GGBR3.SA_Janela_1
+Name: 1, dtype: object",Compra,20.95400047302246,477.23583918377057,10000.0,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-05
+Data    2023-01-05_GGBR3.SA_Janela_1
+Name: 3, dtype: object",Venda,21.365694046020508,477.23583918377057,10196.474927796287,10196.474927796287
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-06
+Data    2023-01-06_GGBR3.SA_Janela_1
+Name: 4, dtype: object",Compra,21.528953552246094,473.6168389723011,10196.474927796287,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-17
+Data    2023-01-17_GGBR3.SA_Janela_1
+Name: 15, dtype: object",Venda,22.96280288696289,473.6168389723011,10875.570117267394,10875.570117267394
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-18
+Data    2023-01-18_GGBR3.SA_Janela_1
+Name: 16, dtype: object",Compra,23.715211868286133,458.59046833189257,10875.570117267394,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-21
+Data    2023-01-21_GGBR3.SA_Janela_1
+Name: 19, dtype: object",Venda,23.566150665283203,458.59046833189257,10807.212070372165,10807.212070372165
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-27
+Data    2023-01-27_GGBR3.SA_Janela_1
+Name: 25, dtype: object",Compra,22.90601158142089,471.8068019810972,10807.212070372165,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-28
+Data    2023-01-28_GGBR3.SA_Janela_1
+Name: 26, dtype: object",Venda,22.90601158142089,471.8068019810972,10807.212070372165,10807.212070372165
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-01-31
+Data    2023-01-31_GGBR3.SA_Janela_1
+Name: 29, dtype: object",Compra,23.239631652832028,465.0337075826749,10807.212070372165,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-02
+Data    2023-02-02_GGBR3.SA_Janela_1
+Name: 31, dtype: object",Venda,21.77029609680176,465.0337075826749,10123.92150906836,10123.92150906836
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-04
+Data    2023-02-04_GGBR3.SA_Janela_1
+Name: 33, dtype: object",Compra,22.040027618408203,459.3425055698519,10123.92150906836,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-07
+Data    2023-02-07_GGBR3.SA_Janela_1
+Name: 36, dtype: object",Venda,22.17489242553711,459.3425055698519,10185.870647488146,10185.870647488146
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-08
+Data    2023-02-08_GGBR3.SA_Janela_1
+Name: 37, dtype: object",Compra,22.103910446167,460.8175857523192,10185.870647488146,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-09
+Data    2023-02-09_GGBR3.SA_Janela_1
+Name: 38, dtype: object",Venda,20.35064697265625,460.8175857523192,9377.936006437196,9377.936006437196
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-14
+Data    2023-02-14_GGBR3.SA_Janela_1
+Name: 43, dtype: object",Compra,20.343549728393555,460.9783509585046,9377.936006437196,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-16
+Data    2023-02-16_GGBR3.SA_Janela_1
+Name: 45, dtype: object",Venda,20.48551368713379,460.9783509585046,9443.37831803281,9443.37831803281
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-17
+Data    2023-02-17_GGBR3.SA_Janela_1
+Name: 46, dtype: object",Compra,20.293859481811523,465.3318077074736,9443.37831803281,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-18
+Data    2023-02-18_GGBR3.SA_Janela_1
+Name: 47, dtype: object",Venda,20.293859481811523,465.3318077074736,9443.37831803281,9443.37831803281
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-24
+Data    2023-02-24_GGBR3.SA_Janela_1
+Name: 53, dtype: object",Compra,19.91055679321289,474.2900169045935,9443.37831803281,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-25
+Data    2023-02-25_GGBR3.SA_Janela_1
+Name: 54, dtype: object",Venda,19.91055679321289,474.2900169045935,9443.37831803281,9443.37831803281
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-02-28
+Data    2023-02-28_GGBR3.SA_Janela_1
+Name: 57, dtype: object",Compra,20.322254180908203,464.6816359035809,9443.37831803281,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-04
+Data    2023-03-04_GGBR3.SA_Janela_1
+Name: 61, dtype: object",Venda,20.88301658630371,464.6816359035809,9703.954309925222,9703.954309925222
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-09
+Data    2023-03-09_GGBR3.SA_Janela_1
+Name: 66, dtype: object",Compra,19.434972763061523,499.303725723184,9703.954309925222,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-10
+Data    2023-03-10_GGBR3.SA_Janela_1
+Name: 67, dtype: object",Venda,19.15814208984375,499.303725723184,9565.731723393132,9565.731723393132
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-15
+Data    2023-03-15_GGBR3.SA_Janela_1
+Name: 72, dtype: object",Compra,18.30684471130371,522.5221426326237,9565.731723393132,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-16
+Data    2023-03-16_GGBR3.SA_Janela_1
+Name: 73, dtype: object",Venda,18.499923706054688,522.5221426326237,9666.619773427765,9666.619773427765
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-17
+Data    2023-03-17_GGBR3.SA_Janela_1
+Name: 74, dtype: object",Compra,18.235334396362305,530.1037844063951,9666.619773427765,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-18
+Data    2023-03-18_GGBR3.SA_Janela_1
+Name: 75, dtype: object",Venda,18.235334396362305,530.1037844063951,9666.619773427765,9666.619773427765
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-22
+Data    2023-03-22_GGBR3.SA_Janela_1
+Name: 79, dtype: object",Compra,18.39623260498047,525.467359594632,9666.619773427765,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-24
+Data    2023-03-24_GGBR3.SA_Janela_1
+Name: 81, dtype: object",Venda,18.46381378173828,525.467359594632,9702.13147593699,9702.13147593699
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-25
+Data    2023-03-25_GGBR3.SA_Janela_1
+Name: 82, dtype: object",Compra,18.46381378173828,525.467359594632,9702.13147593699,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-30
+Data    2023-03-30_GGBR3.SA_Janela_1
+Name: 87, dtype: object",Venda,19.14710235595703,525.467359594632,10061.177318872898,10061.177318872898
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-03-31
+Data    2023-03-31_GGBR3.SA_Janela_1
+Name: 88, dtype: object",Compra,18.98941993713379,529.8306821472876,10061.177318872898,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-01
+Data    2023-04-01_GGBR3.SA_Janela_1
+Name: 89, dtype: object",Venda,18.98941993713379,529.8306821472876,10061.177318872898,10061.177318872898
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-04
+Data    2023-04-04_GGBR3.SA_Janela_1
+Name: 92, dtype: object",Compra,18.606475830078125,540.7352478113344,10061.177318872898,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-05
+Data    2023-04-05_GGBR3.SA_Janela_1
+Name: 93, dtype: object",Venda,18.050836563110355,540.7352478113344,9760.723582155373,9760.723582155373
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-11
+Data    2023-04-11_GGBR3.SA_Janela_1
+Name: 99, dtype: object",Compra,19.46246337890625,501.5153216798965,9760.723582155373,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-13
+Data    2023-04-13_GGBR3.SA_Janela_1
+Name: 101, dtype: object",Venda,19.477481842041016,501.5153216798965,9768.255571525542,9768.255571525542
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-14
+Data    2023-04-14_GGBR3.SA_Janela_1
+Name: 102, dtype: object",Compra,19.635162353515625,497.48789419999684,9768.255571525542,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-18
+Data    2023-04-18_GGBR3.SA_Janela_1
+Name: 106, dtype: object",Venda,19.56007575988769,497.48789419999684,9730.90090017893,9730.90090017893
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-19
+Data    2023-04-19_GGBR3.SA_Janela_1
+Name: 107, dtype: object",Compra,19.19966125488281,506.82669714832565,9730.90090017893,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-20
+Data    2023-04-20_GGBR3.SA_Janela_1
+Name: 108, dtype: object",Venda,19.439939498901367,506.82669714832565,9852.680328991457,9852.680328991457
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-21
+Data    2023-04-21_GGBR3.SA_Janela_1
+Name: 109, dtype: object",Compra,19.439939498901367,506.82669714832565,9852.680328991457,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-25
+Data    2023-04-25_GGBR3.SA_Janela_1
+Name: 113, dtype: object",Venda,18.216024398803714,506.82669714832565,9232.367481219,9232.367481219
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-04-28
+Data    2023-04-28_GGBR3.SA_Janela_1
+Name: 116, dtype: object",Compra,18.90682411193848,488.3087411486171,9232.367481219,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-03
+Data    2023-05-03_GGBR3.SA_Janela_1
+Name: 121, dtype: object",Venda,18.55391311645508,488.3087411486171,9060.037957276996,9060.037957276996
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-04
+Data    2023-05-04_GGBR3.SA_Janela_1
+Name: 122, dtype: object",Compra,17.788032531738285,509.333336394097,9060.037957276996,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-05
+Data    2023-05-05_GGBR3.SA_Janela_1
+Name: 123, dtype: object",Venda,18.613985061645504,509.333336394097,9480.723115037787,9480.723115037787
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-06
+Data    2023-05-06_GGBR3.SA_Janela_1
+Name: 124, dtype: object",Compra,18.613985061645504,509.33333639409705,9480.723115037787,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-11
+Data    2023-05-11_GGBR3.SA_Janela_1
+Name: 129, dtype: object",Venda,18.11090469360352,509.33333639409705,9224.487512708592,9224.487512708592
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-13
+Data    2023-05-13_GGBR3.SA_Janela_1
+Name: 131, dtype: object",Compra,18.216024398803714,506.39411271947927,9224.487512708592,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-17
+Data    2023-05-17_GGBR3.SA_Janela_1
+Name: 135, dtype: object",Venda,18.497209548950195,506.39411271947927,9366.878017326913,9366.878017326913
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-18
+Data    2023-05-18_GGBR3.SA_Janela_1
+Name: 136, dtype: object",Compra,18.558557510375977,504.72015468281677,9366.878017326913,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-20
+Data    2023-05-20_GGBR3.SA_Janela_1
+Name: 138, dtype: object",Venda,18.46653175354004,504.72015468281677,9320.430763101876,9320.430763101876
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-23
+Data    2023-05-23_GGBR3.SA_Janela_1
+Name: 141, dtype: object",Compra,19.202741622924805,485.3697949033938,9320.430763101876,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-24
+Data    2023-05-24_GGBR3.SA_Janela_1
+Name: 142, dtype: object",Venda,18.75794982910156,485.3697949033938,9104.542261359175,9104.542261359175
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-27
+Data    2023-05-27_GGBR3.SA_Janela_1
+Name: 145, dtype: object",Compra,19.141387939453125,475.64692226907,9104.542261359175,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-05-30
+Data    2023-05-30_GGBR3.SA_Janela_1
+Name: 148, dtype: object",Venda,18.650585174560547,475.64692226907,8871.09343679687,8871.09343679687
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-02
+Data    2023-06-02_GGBR3.SA_Janela_1
+Name: 151, dtype: object",Compra,19.23341560363769,461.2333877462225,8871.09343679687,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-06
+Data    2023-06-06_GGBR3.SA_Janela_1
+Name: 155, dtype: object",Venda,19.17206573486328,461.2333877462225,8842.796828984261,8842.796828984261
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-08
+Data    2023-06-08_GGBR3.SA_Janela_1
+Name: 157, dtype: object",Compra,19.317771911621094,457.7544899815622,8842.796828984261,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-13
+Data    2023-06-13_GGBR3.SA_Janela_1
+Name: 162, dtype: object",Venda,19.28709602355957,457.7544899815622,8828.754803489926,8828.754803489926
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-14
+Data    2023-06-14_GGBR3.SA_Janela_1
+Name: 163, dtype: object",Compra,19.969627380371094,442.109140812915,8828.754803489926,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-16
+Data    2023-06-16_GGBR3.SA_Janela_1
+Name: 165, dtype: object",Venda,19.90060234069824,442.109140812915,8798.238202505583,8798.238202505583
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-17
+Data    2023-06-17_GGBR3.SA_Janela_1
+Name: 166, dtype: object",Compra,19.90060234069824,442.109140812915,8798.238202505583,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-21
+Data    2023-06-21_GGBR3.SA_Janela_1
+Name: 170, dtype: object",Venda,19.67053985595703,442.109140812915,8696.525475043363,8696.525475043363
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-27
+Data    2023-06-27_GGBR3.SA_Janela_1
+Name: 176, dtype: object",Compra,19.49415779113769,446.1093199418403,8696.525475043363,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-29
+Data    2023-06-29_GGBR3.SA_Janela_1
+Name: 178, dtype: object",Venda,19.38679313659668,446.1093199418403,8648.62910202028,8648.62910202028
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-06-30
+Data    2023-06-30_GGBR3.SA_Janela_1
+Name: 179, dtype: object",Compra,19.22574615478516,449.8462131139547,8648.62910202028,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-01
+Data    2023-07-01_GGBR3.SA_Janela_1
+Name: 180, dtype: object",Venda,19.22574615478516,449.8462131139547,8648.62910202028,8648.62910202028
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-04
+Data    2023-07-04_GGBR3.SA_Janela_1
+Name: 183, dtype: object",Compra,19.87759590148925,435.09432151059656,8648.62910202028,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-05
+Data    2023-07-05_GGBR3.SA_Janela_1
+Name: 184, dtype: object",Venda,19.8009090423584,435.09432151059656,8615.263085077964,8615.263085077964
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-08
+Data    2023-07-08_GGBR3.SA_Janela_1
+Name: 187, dtype: object",Compra,20.046310424804688,429.76801728150946,8615.263085077964,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-15
+Data    2023-07-15_GGBR3.SA_Janela_1
+Name: 194, dtype: object",Venda,20.828533172607425,429.76801728150946,8951.437404473641,8951.437404473641
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-18
+Data    2023-07-18_GGBR3.SA_Janela_1
+Name: 197, dtype: object",Compra,21.112279891967773,423.99198240447924,8951.437404473641,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-20
+Data    2023-07-20_GGBR3.SA_Janela_1
+Name: 199, dtype: object",Venda,21.104610443115234,423.99198240447924,8948.185619650703,8948.185619650703
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-21
+Data    2023-07-21_GGBR3.SA_Janela_1
+Name: 200, dtype: object",Compra,20.874547958374023,428.66488115068637,8948.185619650703,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-22
+Data    2023-07-22_GGBR3.SA_Janela_1
+Name: 201, dtype: object",Venda,20.874547958374023,428.66488115068637,8948.185619650703,8948.185619650703
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-25
+Data    2023-07-25_GGBR3.SA_Janela_1
+Name: 204, dtype: object",Compra,22.23959732055664,402.3537607571546,8948.185619650703,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-07-28
+Data    2023-07-28_GGBR3.SA_Janela_1
+Name: 207, dtype: object",Venda,21.76412773132324,402.3537607571546,8756.878642296984,8756.878642296984
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-01
+Data    2023-08-01_GGBR3.SA_Janela_1
+Name: 211, dtype: object",Compra,22.362293243408203,391.59126244256163,8756.878642296984,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-02
+Data    2023-08-02_GGBR3.SA_Janela_1
+Name: 212, dtype: object",Venda,22.05554580688477,391.59126244256163,8636.759026377753,8636.759026377753
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-11
+Data    2023-08-11_GGBR3.SA_Janela_1
+Name: 221, dtype: object",Compra,19.67820930480957,438.89964237075344,8636.759026377753,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-12
+Data    2023-08-12_GGBR3.SA_Janela_1
+Name: 222, dtype: object",Venda,19.67820930480957,438.89964237075344,8636.759026377753,8636.759026377753
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-15
+Data    2023-08-15_GGBR3.SA_Janela_1
+Name: 225, dtype: object",Compra,19.770235061645508,436.8566685953658,8636.759026377753,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-16
+Data    2023-08-16_GGBR3.SA_Janela_1
+Name: 226, dtype: object",Venda,19.75489616394043,436.8566685953658,8630.058126626387,8630.058126626387
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-23
+Data    2023-08-23_GGBR3.SA_Janela_1
+Name: 233, dtype: object",Compra,19.695913314819336,438.16491211570644,8630.058126626387,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-25
+Data    2023-08-25_GGBR3.SA_Janela_1
+Name: 235, dtype: object",Venda,19.33709526062012,438.16491211570644,8472.83664544266,8472.83664544266
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-08-29
+Data    2023-08-29_GGBR3.SA_Janela_1
+Name: 239, dtype: object",Compra,20.031326293945312,422.97931355666987,8472.83664544266,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-01
+Data    2023-09-01_GGBR3.SA_Janela_1
+Name: 242, dtype: object",Venda,20.28093910217285,422.97931355666987,8578.417699721696,8578.417699721696
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-02
+Data    2023-09-02_GGBR3.SA_Janela_1
+Name: 243, dtype: object",Compra,20.28093910217285,422.9793135566698,8578.417699721696,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-06
+Data    2023-09-06_GGBR3.SA_Janela_1
+Name: 247, dtype: object",Venda,19.80512046813965,422.9793135566698,8377.15626052086,8377.15626052086
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-12
+Data    2023-09-12_GGBR3.SA_Janela_1
+Name: 253, dtype: object",Compra,20.07032966613769,417.3900678200942,8377.15626052086,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-14
+Data    2023-09-14_GGBR3.SA_Janela_1
+Name: 255, dtype: object",Venda,20.0079288482666,417.3900678200942,8351.110778917617,8351.110778917617
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-15
+Data    2023-09-15_GGBR3.SA_Janela_1
+Name: 256, dtype: object",Compra,20.10933303833008,415.28531866271726,8351.110778917617,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-19
+Data    2023-09-19_GGBR3.SA_Janela_1
+Name: 260, dtype: object",Venda,19.181091308593743,415.28531866271726,7965.625616388029,7965.625616388029
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-21
+Data    2023-09-21_GGBR3.SA_Janela_1
+Name: 262, dtype: object",Compra,19.02508354187012,418.69070371530296,7965.625616388029,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-22
+Data    2023-09-22_GGBR3.SA_Janela_1
+Name: 263, dtype: object",Venda,18.923677444458008,418.69070371530296,7923.1678261015295,7923.1678261015295
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-26
+Data    2023-09-26_GGBR3.SA_Janela_1
+Name: 267, dtype: object",Compra,19.056283950805664,415.77717075141254,7923.1678261015295,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-09-29
+Data    2023-09-29_GGBR3.SA_Janela_1
+Name: 270, dtype: object",Venda,18.82227325439453,415.77717075141254,7825.87152082214,7825.87152082214
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-11
+Data    2023-10-11_GGBR3.SA_Janela_1
+Name: 282, dtype: object",Compra,17.566415786743164,445.50189496983705,7825.87152082214,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-12
+Data    2023-10-12_GGBR3.SA_Janela_1
+Name: 283, dtype: object",Venda,17.566415786743164,445.50189496983705,7825.87152082214,7825.87152082214
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-17
+Data    2023-10-17_GGBR3.SA_Janela_1
+Name: 288, dtype: object",Compra,17.418210983276367,449.2924978538808,7825.87152082214,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-18
+Data    2023-10-18_GGBR3.SA_Janela_1
+Name: 289, dtype: object",Venda,16.89558219909668,449.2924978538808,7591.058328927711,7591.058328927711
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-24
+Data    2023-10-24_GGBR3.SA_Janela_1
+Name: 295, dtype: object",Compra,16.809778213500977,451.5858705875644,7591.058328927711,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-25
+Data    2023-10-25_GGBR3.SA_Janela_1
+Name: 296, dtype: object",Venda,16.747377395629883,451.5858705875644,7562.8790012640175,7562.8790012640175
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-10-27
+Data    2023-10-27_GGBR3.SA_Janela_1
+Name: 298, dtype: object",Compra,17.035991668701172,443.9353545328784,7562.8790012640175,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-01
+Data    2023-11-01_GGBR3.SA_Janela_1
+Name: 303, dtype: object",Venda,17.30120086669922,443.9353545328784,7680.614740602661,7680.614740602661
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-02
+Data    2023-11-02_GGBR3.SA_Janela_1
+Name: 304, dtype: object",Compra,17.30120086669922,443.9353545328784,7680.614740602661,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-08
+Data    2023-11-08_GGBR3.SA_Janela_1
+Name: 310, dtype: object",Venda,17.699020385742184,443.9353545328784,7857.220889829099,7857.220889829099
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-10
+Data    2023-11-10_GGBR3.SA_Janela_1
+Name: 312, dtype: object",Compra,18.53365898132324,423.94331835645556,7857.220889829099,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-14
+Data    2023-11-14_GGBR3.SA_Janela_1
+Name: 316, dtype: object",Venda,18.845674514770508,423.94331835645556,7989.497790457494,7989.497790457494
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-15
+Data    2023-11-15_GGBR3.SA_Janela_1
+Name: 317, dtype: object",Compra,18.845674514770508,423.94331835645556,7989.497790457494,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-21
+Data    2023-11-21_GGBR3.SA_Janela_1
+Name: 323, dtype: object",Venda,18.593799591064453,423.94331835645556,7882.717099490771,7882.717099490771
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-22
+Data    2023-11-22_GGBR3.SA_Janela_1
+Name: 324, dtype: object",Compra,18.530176162719727,425.3989293069841,7882.717099490771,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-23
+Data    2023-11-23_GGBR3.SA_Janela_1
+Name: 325, dtype: object",Venda,18.49041175842285,425.3989293069841,7865.80136447835,7865.80136447835
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-11-30
+Data    2023-11-30_GGBR3.SA_Janela_1
+Name: 332, dtype: object",Compra,17.37700653076172,452.65571780466803,7865.80136447835,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-01
+Data    2023-12-01_GGBR3.SA_Janela_1
+Name: 333, dtype: object",Venda,17.6155948638916,452.65571780466803,7973.799737671076,7973.799737671076
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-02
+Data    2023-12-02_GGBR3.SA_Janela_1
+Name: 334, dtype: object",Compra,17.6155948638916,452.65571780466803,7973.799737671076,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-05
+Data    2023-12-05_GGBR3.SA_Janela_1
+Name: 337, dtype: object",Venda,17.70307731628418,452.65571780466803,8013.399169954151,8013.399169954151
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-06
+Data    2023-12-06_GGBR3.SA_Janela_1
+Name: 338, dtype: object",Compra,17.695125579833984,452.8591296965146,8013.399169954151,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-07
+Data    2023-12-07_GGBR3.SA_Janela_1
+Name: 339, dtype: object",Venda,17.742839813232422,452.8591296965146,8035.006996165103,8035.006996165103
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-08
+Data    2023-12-08_GGBR3.SA_Janela_1
+Name: 340, dtype: object",Compra,17.901901245117188,448.83539944432897,8035.006996165103,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-16
+Data    2023-12-16_GGBR3.SA_Janela_1
+Name: 348, dtype: object",Venda,18.474506378173828,448.83539944432897,8292.012449784454,8292.012449784454
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-17
+Data    2023-12-17_GGBR3.SA_Janela_1
+Name: 349, dtype: object",Compra,18.474506378173828,448.83539944432897,8292.012449784454,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-20
+Data    2023-12-20_GGBR3.SA_Janela_1
+Name: 352, dtype: object",Venda,18.10867500305176,448.83539944432897,8127.814378402272,8127.814378402272
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-22
+Data    2023-12-22_GGBR3.SA_Janela_1
+Name: 354, dtype: object",Compra,18.80852508544922,432.13459542822784,8127.814378402272,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-27
+Data    2023-12-27_GGBR3.SA_Janela_1
+Name: 359, dtype: object",Venda,18.71309280395508,432.13459542822784,8086.574788048011,8086.574788048011
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-29
+Data    2023-12-29_GGBR3.SA_Janela_1
+Name: 361, dtype: object",Compra,18.896005630493164,427.95154416118584,8086.574788048011,0.0
+GGBR3.SA,Janela_1,Direção Previsão,True,"Data                      2023-12-31
+Data    2023-12-31_GGBR3.SA_Janela_1
+Name: 363, dtype: object",Venda Final,18.896005630493164,427.95154416118584,8086.574788048011,8086.574788048011

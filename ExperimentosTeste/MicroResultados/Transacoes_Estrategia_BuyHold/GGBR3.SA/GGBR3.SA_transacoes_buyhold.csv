@@ -1,0 +1,7 @@
+Data,Acao,Preco,Quantidade,Valor Total,Saldo Restante
+"Data                     2023-01-02
+Data    2023-01-02_GGBR3.SA_BuyHold
+Name: 0, dtype: object",Compra Inicial,20.91140937805176,478.20784430225063,10000.0,0.0
+"Data                     2023-12-31
+Data    2023-12-31_GGBR3.SA_BuyHold
+Name: 363, dtype: object",Venda Final,18.896005630493164,478.20784430225063,9036.218118481327,9036.218118481327

@@ -1,0 +1,7 @@
+Data,Acao,Preco,Quantidade,Valor Total,Saldo Restante
+"Data                     2023-01-02
+Data    2023-01-02_SUZB3.SA_BuyHold
+Name: 0, dtype: object",Compra Inicial,46.34902572631836,215.7542654520503,10000.0,0.0
+"Data                     2023-12-31
+Data    2023-12-31_SUZB3.SA_BuyHold
+Name: 363, dtype: object",Venda Final,53.87290191650391,215.7542654520503,11623.308380765655,11623.308380765655

@@ -1,0 +1,7 @@
+Data,Acao,Preco,Quantidade,Valor Total,Saldo Restante
+"Data                     2023-01-02
+Data    2023-01-02_PETR4.SA_BuyHold
+Name: 0, dtype: object",Compra Inicial,14.456953048706056,691.7086862155253,10000.0,0.0
+"Data                     2023-12-31
+Data    2023-12-31_PETR4.SA_BuyHold
+Name: 363, dtype: object",Venda Final,30.41437530517578,691.7086862155253,21037.887584409054,21037.887584409054

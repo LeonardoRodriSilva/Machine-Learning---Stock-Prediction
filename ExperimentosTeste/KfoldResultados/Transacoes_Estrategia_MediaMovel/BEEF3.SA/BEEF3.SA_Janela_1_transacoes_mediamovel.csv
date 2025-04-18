@@ -1,0 +1,25 @@
+Data,Acao,Preco,Quantidade,Valor Total,Saldo Restante
+"Data                      2023-05-11
+Data    2023-05-11_BEEF3.SA_Janela_1
+Name: 87, dtype: object",Compra,9.579073905944824,1043.942253519304,10000.0,0.0
+"Data                      2023-06-27
+Data    2023-06-27_BEEF3.SA_Janela_1
+Name: 119, dtype: object",Venda,10.26609706878662,1043.942253519304,10717.212508837023,10717.212508837023
+"Data                      2023-08-03
+Data    2023-08-03_BEEF3.SA_Janela_1
+Name: 146, dtype: object",Compra,10.344614028930664,1036.0185966208421,10717.212508837023,0.0
+"Data                      2023-08-30
+Data    2023-08-30_BEEF3.SA_Janela_1
+Name: 165, dtype: object",Venda,8.600000381469727,1036.0185966208421,8909.760326148973,8909.760326148973
+"Data                      2023-11-08
+Data    2023-11-08_BEEF3.SA_Janela_1
+Name: 212, dtype: object",Compra,7.880000114440918,1130.680228014326,8909.760326148973,0.0
+"Data                      2023-11-13
+Data    2023-11-13_BEEF3.SA_Janela_1
+Name: 215, dtype: object",Venda,6.880000114440918,1130.680228014326,7779.0800981346465,7779.0800981346465
+"Data                      2023-12-04
+Data    2023-12-04_BEEF3.SA_Janela_1
+Name: 229, dtype: object",Compra,7.400000095367432,1051.227026740787,7779.0800981346465,0.0
+"Data                      2023-12-28
+Data    2023-12-28_BEEF3.SA_Janela_1
+Name: 246, dtype: object",Venda Final,7.46999979019165,1051.227026740787,7852.665669197472,7852.665669197472
