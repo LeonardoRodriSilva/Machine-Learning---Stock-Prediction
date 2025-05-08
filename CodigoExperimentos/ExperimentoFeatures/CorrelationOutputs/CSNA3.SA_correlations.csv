@@ -1,0 +1,11 @@
+Correlation_Type,Variable_1,Variable_2,Correlation
+Macro vs Micro Target,TaxaCambio,Preço,0.21656332800623784
+Macro vs Micro Target,Selic,Preço,-0.3068755539510204
+Macro vs Micro Target,PIB,Preço,0.010919940740891192
+Macro vs Micro Target,IPCA,Preço,0.5768415658657148
+Micro vs Micro Target,ROA,Preço,0.6753583989908151
+Micro vs Micro Target,ROE,Preço,0.7175360311322577
+Micro vs Micro Target,Margem Líquida,Preço,0.6214756242690093
+Micro vs Micro Target,P/L,Preço,0.19549805225247766
+Micro vs Micro Target,VP,Preço,-0.22041325815982943
+Micro vs Micro Target,Preço_anterior,Preço,0.9981662031712667
