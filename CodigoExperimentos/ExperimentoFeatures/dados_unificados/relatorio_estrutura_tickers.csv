@@ -1,0 +1,10 @@
+Ticker,Total_Colunas,Colunas_Problemáticas,Close_Target,Close_Feature,Preço,Preço_anterior,Preço_feature,Linhas,Período
+BEEF3.SA,14,1,True,True,True,True,False,1460,2020-01-02 a 2023-12-31
+BRFS3.SA,13,1,False,False,True,True,True,1460,2020-01-02 a 2023-12-31
+CSNA3.SA,13,1,False,False,True,True,True,1460,2020-01-02 a 2023-12-31
+GGBR3.SA,14,1,True,True,True,True,False,1460,2020-01-02 a 2023-12-31
+JBSS3.SA,13,1,False,False,True,True,True,1460,2020-01-02 a 2023-12-31
+PETR4.SA,13,1,False,False,True,True,True,1460,2020-01-02 a 2023-12-31
+SOJA3.SA,13,1,False,False,True,True,True,1095,2021-01-01 a 2023-12-31
+SUZB3.SA,13,1,False,False,True,True,True,1460,2020-01-02 a 2023-12-31
+VALE3.SA,13,1,False,False,True,True,True,1460,2020-01-02 a 2023-12-31
