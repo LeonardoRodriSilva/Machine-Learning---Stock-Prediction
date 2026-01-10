@@ -1,0 +1,7 @@
+Modelo,Retorno Liquido (%)_mean,Retorno Liquido (%)_std,Retorno Liquido (%)_min,Retorno Liquido (%)_max,Sharpe Ratio_mean,Sharpe Ratio_std,Sharpe Ratio_min,Sharpe Ratio_max,Drawdown (%)_mean,Saldo Final_mean,Custos (R$)_sum,Impostos (R$)_sum
+Transformers MacroMicro,21.32,27.33,-0.73,82.25,0.83,0.68,0.06,1.82,-19.05,12132.49,569.31,396.17
+Transformers Micro,27.33,25.98,4.42,82.25,0.75,0.35,0.26,1.12,-22.64,12733.48,834.3,813.34
+Transformers Macro,26.41,29.81,-2.8,80.1,0.72,0.59,-0.02,1.54,-18.87,12641.43,686.62,654.92
+LSTM Macro,22.63,30.59,-3.28,90.81,0.64,0.45,0.07,1.18,-16.72,12263.08,2421.82,2401.66
+LSTM MacroMicro,21.92,29.19,-0.76,81.6,0.48,0.47,-0.13,1.08,-18.19,12191.98,243.72,2.28
+LSTM Micro,11.12,17.41,-4.78,47.53,0.32,0.38,-0.05,0.98,-21.79,11112.1,596.66,511.12
