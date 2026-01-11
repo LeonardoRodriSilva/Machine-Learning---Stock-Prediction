@@ -1,0 +1,2 @@
+Ticker,Janela,LSTM_Units_1,LSTM_Units_2,Dense_Units,Dropout_Rate,Learning_Rate,Batch_Size,Epochs_Max,Epochs_Trained,Early_Stopping_Patience,Optimizer,Loss_Function,Scaler,Add_Diff_Features
+JBSS3.SA,2,100,100,64,0.2,0.001,32,200,56,20,Adam,MSE,StandardScaler,True
